@@ -41,3 +41,25 @@ http://egjsa.avtk.cn/cd
 ![套餐截图](./assists/奶茶/price.png)
 
 </details>
+
+<hr>
+
+### 云鸟Loon
+http://egj5n.avtk.cn/7f
+<details>
+<summary>套餐截图</summary>
+
+![套餐截图](./assists/云鸟Loon/price.png)
+
+</details>
+
+<hr>
+
+### 太阳鸟
+http://egjjb.ensl.cn/a2
+<details>
+<summary>套餐截图</summary>
+
+![套餐截图](./assists/太阳鸟/price.png)
+
+</details>
