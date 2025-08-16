@@ -30,3 +30,14 @@ http://egjqs.avtk.cn/aa
 ![套餐截图](./assists/冲上云霄/price.png)
 
 </details>
+
+<hr>
+
+### 奶茶
+http://egjsa.avtk.cn/cd
+<details>
+<summary>套餐截图</summary>
+
+![套餐截图](./assists/奶茶/price.png)
+
+</details>
