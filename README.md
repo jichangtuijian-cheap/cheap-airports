@@ -86,6 +86,12 @@ http://egf5u.avtk.cn/f8
 <hr>
 
 ### 太阳鸟
+开业时间：2025-08-03
+
+特点：
+* 速度无限制
+* 同时在线设备无限制
+
 http://egjjb.ensl.cn/a2
 <details>
 <summary>套餐截图</summary>
