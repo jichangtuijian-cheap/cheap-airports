@@ -118,3 +118,25 @@ http://eg7v6.ensl.cn/35
 ![套餐截图](./assists/一元中转/price.png)
 
 </details>
+
+<hr>
+
+### 白嫖机场
+http://egfhz.avtk.cn/8b
+<details>
+<summary>套餐截图</summary>
+
+![套餐截图](./assists/白嫖机场/price.png)
+
+</details>
+
+<hr>
+
+### 能用
+http://egfyq.avtk.cn/aa
+<details>
+<summary>套餐截图</summary>
+
+![套餐截图](./assists/能用/price.png)
+
+</details>
