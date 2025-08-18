@@ -1,11 +1,29 @@
 # 便宜机场推荐 月付5元以内
 
+| 序号 | 机场名 | 官网 | 开业时间 | 最低价套餐 |
+| -------- | -------- | -------- | -------- | -------- |
+| 1  | [KooDog](#koodog) | [官网](http://egjqk.avtk.cn/5c) | 2024-06-27 | 5元/月 30G |
+| 2  | [acyun](#acyun) | [官网](http://egfqx.ensl.cn/e6) | 2023-03-10 | 2元/月 300G |
+| 3  | [冲上云霄](#冲上云霄) | [官网](http://egjqs.avtk.cn/aa) | 2024-07-22 | 5元/月 80G |
+| 4  | [奶茶](#奶茶) | [官网](http://egjsa.avtk.cn/cd) | 2025-07-17 | 5元/月 无限流量 |
+| 5  | [云鸟Loon](#云鸟loon) | [官网](http://egf5u.avtk.cn/f8) | 2024-05-02 | 9.9元/年 100G/月 |
+| 6  | [太阳鸟](#太阳鸟) | [官网](http://egjjb.ensl.cn/a2) | 2025-08-03 | 5元/月 60G |
+| 7  | [SRCloud](#SRCloud) | [官网](http://eg7f7.avtk.cn/35) | 2025-03-31 | 3元/月 50G |
+| 8  | [NetAccelera](#NetAccelera) | [官网](http://eg714.ensl.cn/00) | 2025-04-09 | 1元/月 18G |
+| 9  | [一毛机场](#一毛机场) | [官网](http://eg7vm.avtk.cn/8f) | 2023-09-20 | 1元/月 100G |
+| 10 | [早安云](#早安云) | [官网](http://egfzb.ensl.cn/6b) | 2024-09-14 | 1元/月 100G |
+| 11 | [一元中转](#一元中转) | [官网](http://eg7v6.ensl.cn/35) | 2025-03-01 | 12元/年 50G/月 |
+| 12 | [白嫖机场](#白嫖机场) | [官网](http://egfhz.avtk.cn/8b) | 2022-12-28 | 19元/年 1T/月 |
+| 13 | [能用](#能用) | [官网](http://egfyq.avtk.cn/aa) | 2025-06-25 | 3元/月 30G |
+
+<hr>
+
 ### KooDog
 开业时间：2024-06-27
 
 特点：
 * BGP跨境专线
-* 奈飞|Porn|Prime免登入观影 
+* 奈飞|Porn|Prime免登入观影
 * 闲暇时段低倍率计费
 
 http://egjqk.avtk.cn/5c
@@ -73,7 +91,7 @@ http://egjsa.avtk.cn/cd
 
 特点：
 * 直连机场
-* 全球多个国家/地区，60+ 节点 
+* 全球多个国家/地区，60+ 节点
 
 http://egf5u.avtk.cn/f8
 <details>
@@ -199,7 +217,7 @@ http://egfhz.avtk.cn/8b
 <hr>
 
 ### 能用
-开业时间：2025-06
+开业时间：2025-06-25
 
 特点：
 * 解锁: Netflix, Disney+, ChatGPT, MyTVSuper, HBO, BiliBili, Bahamut等
