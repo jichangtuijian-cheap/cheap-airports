@@ -1,4 +1,4 @@
-# 便宜机场推荐 月付5元以内
+# 便宜机场 低价机场 只推荐月付5元以内
 
 | 序号 | 机场名 | 官网 | 开业时间 | 最低价套餐 |
 | -------- | -------- | -------- | -------- | -------- |
@@ -21,16 +21,24 @@
 ### KooDog
 开业时间：2024-06-27
 
+最低价套餐：5元/月 30G
+
 特点：
 * BGP跨境专线
 * 奈飞|Porn|Prime免登入观影
 * 闲暇时段低倍率计费
 
-http://egjqk.avtk.cn/5c
+[KooDog官网](http://egjqk.avtk.cn/5c)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/KooDog/price.png)
+![套餐价格](./assists/KooDog/price.png)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./assists/KooDog/speed.png)
 
 </details>
 
@@ -39,15 +47,17 @@ http://egjqk.avtk.cn/5c
 ### acyun
 开业时间：2023-03-10
 
+最低价套餐：2元/月 300G
+
 特点：
 * 冷门地区
 * 0倍率福利下载节点
 
-http://egfqx.ensl.cn/e6
+[acyun官网](http://egfqx.ensl.cn/e6)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/acyun/price.png)
+![套餐价格](./assists/acyun/price.png)
 
 </details>
 
@@ -56,15 +66,17 @@ http://egfqx.ensl.cn/e6
 ### 冲上云霄
 开业时间：2024-07-22
 
+最低价套餐：5元/月 80G
+
 特点：
 * 家宽节点
 * 流媒体解锁 & GPT不降智
 
-http://egjqs.avtk.cn/aa
+[冲上云霄官网](http://egjqs.avtk.cn/aa)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/冲上云霄/price.png)
+![套餐价格](./assists/冲上云霄/price.png)
 
 </details>
 
@@ -73,14 +85,16 @@ http://egjqs.avtk.cn/aa
 ### 奶茶
 开业时间：2025-07-17
 
+最低价套餐：5元/月 无限流量
+
 特点：
 * **无限流量**
 
-http://egjsa.avtk.cn/cd
+[奶茶官网](http://egjsa.avtk.cn/cd)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/奶茶/price.png)
+![套餐价格](./assists/奶茶/price.png)
 
 </details>
 
@@ -89,15 +103,17 @@ http://egjsa.avtk.cn/cd
 ### 云鸟Loon
 开业时间：2024-05-02
 
+最低价套餐：9.9元/年 100G/月
+
 特点：
 * 直连机场
 * 全球多个国家/地区，60+ 节点
 
-http://egf5u.avtk.cn/f8
+[云鸟Loon官网](http://egf5u.avtk.cn/f8)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/云鸟Loon/price.png)
+![套餐价格](./assists/云鸟Loon/price.png)
 
 </details>
 
@@ -106,15 +122,17 @@ http://egf5u.avtk.cn/f8
 ### 太阳鸟
 开业时间：2025-08-03
 
+最低价套餐：5元/月 60G
+
 特点：
 * 速度无限制
 * 同时在线设备无限制
 
-http://egjjb.ensl.cn/a2
+[太阳鸟官网](http://egjjb.ensl.cn/a2)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/太阳鸟/price.png)
+![套餐价格](./assists/太阳鸟/price.png)
 
 </details>
 
@@ -123,14 +141,16 @@ http://egjjb.ensl.cn/a2
 ### SRCloud
 开业时间：2025-03-31
 
+最低价套餐：3元/月 50G
+
 特点：
 * 可以签到白嫖
 
-http://eg7f7.avtk.cn/35
+[SRCloud官网](http://eg7f7.avtk.cn/35)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/SRCloud/price.png)
+![套餐价格](./assists/SRCloud/price.png)
 
 </details>
 
@@ -139,17 +159,19 @@ http://eg7f7.avtk.cn/35
 ### NetAccelera
 开业时间：2025-04-09
 
+最低价套餐：1元/月 18G
+
 特点：
 * 有防失联免费套餐
 * 30+国家 60+节点
 * 解锁：Netflix、ChatGPT
 * 不限速，不限连接数
 
-http://eg714.ensl.cn/00
+[NetAccelera官网](http://eg714.ensl.cn/00)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/NetAccelera/price.png)
+![套餐价格](./assists/NetAccelera/price.png)
 
 </details>
 
@@ -158,15 +180,17 @@ http://eg714.ensl.cn/00
 ### 一毛机场
 开业时间：2023-09-20
 
+最低价套餐：1元/月 100G
+
 特点：
 * 不限制速度，支持无限设备同时使用
 * 解锁ChatGPT/奈飞/迪士尼等
 
-http://eg7vm.avtk.cn/8f
+[一毛机场官网](http://eg7vm.avtk.cn/8f)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/一毛机场/price.png)
+![套餐价格](./assists/一毛机场/price.png)
 
 </details>
 
@@ -175,11 +199,13 @@ http://eg7vm.avtk.cn/8f
 ### 早安云
 开业时间：2024-09-14
 
-http://egfzb.ensl.cn/6b
-<details>
-<summary>套餐截图</summary>
+最低价套餐：1元/月 100G
 
-![套餐截图](./assists/早安云/price.png)
+[早安云官网](http://egfzb.ensl.cn/6b)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/早安云/price.png)
 
 </details>
 
@@ -188,11 +214,13 @@ http://egfzb.ensl.cn/6b
 ### 一元中转
 开业时间：2025-03-01
 
-http://eg7v6.ensl.cn/35
-<details>
-<summary>套餐截图</summary>
+最低价套餐：12元/年 50G/月
 
-![套餐截图](./assists/一元中转/price.png)
+[一元中转官网](http://eg7v6.ensl.cn/35)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/一元中转/price.png)
 
 </details>
 
@@ -201,16 +229,18 @@ http://eg7v6.ensl.cn/35
 ### 白嫖机场
 开业时间：2022-12-28
 
+最低价套餐：19元/年 1T/月
+
 特点：
 * 不限设备数 不限速
 * 全球拥有超过50+优质线路节点
 * 运营团队在意大利米兰
 
-http://egfhz.avtk.cn/8b
+[白嫖机场官网](http://egfhz.avtk.cn/8b)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/白嫖机场/price.png)
+![套餐价格](./assists/白嫖机场/price.png)
 
 </details>
 
@@ -219,14 +249,16 @@ http://egfhz.avtk.cn/8b
 ### 能用
 开业时间：2025-06-25
 
+最低价套餐：3元/月 30G
+
 特点：
 * 解锁: Netflix, Disney+, ChatGPT, MyTVSuper, HBO, BiliBili, Bahamut等
 * 节点无审计
 
-http://egfyq.avtk.cn/aa
+[能用官网](http://egfyq.avtk.cn/aa)
 <details>
-<summary>套餐截图</summary>
+<summary>套餐价格</summary>
 
-![套餐截图](./assists/能用/price.png)
+![套餐价格](./assists/能用/price.png)
 
 </details>
