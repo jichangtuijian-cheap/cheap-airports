@@ -15,6 +15,7 @@
 | 11 | [一元中转](#一元中转) | [官网](http://eg7v6.ensl.cn/35) | 2025-03-01 | 12元/年 50G/月 |
 | 12 | [白嫖机场](#白嫖机场) | [官网](http://egfhz.avtk.cn/8b) | 2022-12-28 | 19元/年 1T/月 |
 | 13 | [能用](#能用) | [官网](http://egfyq.avtk.cn/aa) | 2025-06-25 | 3元/月 30G |
+| 14 | [Crush Cloud](#crush-cloud) | [官网](http://egifx.ensl.cn/87) | 2025-08-19 | 4元/月 150G |
 
 <hr>
 
@@ -260,5 +261,30 @@
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/能用/price.png)
+
+</details>
+
+<hr>
+
+### Crush Cloud
+开业时间：2025-08-19
+
+最低价套餐：4元/月 150G
+
+特点：
+* 不限速
+* 不限设备
+
+[Crush Cloud](http://egifx.ensl.cn/87)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/CrushCloud/price.png)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./assists/CrushCloud/speed.png)
 
 </details>
