@@ -22,6 +22,12 @@
 
 <hr>
 
+**联系我：**
+
+Email: pianyijichang@proton.me
+
+<hr>
+
 ### KooDog
 开业时间：2024-06-27
 
