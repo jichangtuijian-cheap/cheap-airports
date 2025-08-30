@@ -19,6 +19,8 @@
 | 15 | [Neko Cloud](#neko-cloud) | [官网](http://e4ei7.avtk.cn/8f) | 2025-08-11 | 2元/月 100G |
 | 16 | [地鼠机场](#地鼠机场) | [官网](http://e48mb.avtk.cn/37) | 2024-08-19 | 1元/月 50G，推荐：3.99元/月 200G |
 | 17 | [NPC-Cloud](#npc-cloud) | [官网](http://e482p.ensl.cn/fb) | 2025-04-06 | 2.1元/月 10G，推荐：5元/月 100G |
+| 18 | [水牛云](#水牛云) | [官网](http://e4r36.ensl.cn/7a) | 2024-08-19 | 9.9元/年 100G/月 |
+| 19 | [良心云](#良心云) | [官网](http://e4rqm.ensl.cn/1d) | 2025-03-20 | 2元/月 100G/月 |
 
 <hr>
 
@@ -364,3 +366,52 @@ Email: pianyijichang@proton.me
 ![测速](./assists/NPC-Cloud/speed.png)
 
 </details>
+
+<hr>
+
+### 水牛云
+开业时间：2024-08-19
+
+最低价套餐：9.9元/年 100G/月
+
+特点：
+* 直连机场
+* 不限在线设备
+* 可用线路50+条以上
+
+[水牛云官网](http://e4r36.ensl.cn/7a)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/水牛云/price.png)
+
+</details>
+
+<hr>
+
+### 良心云
+开业时间：2025-03-20
+
+最低价套餐：2元/月 100G/月
+
+特点：
+* 支持新疆，河南，福建，用户使用
+* 无限制使用行为，无存储节点日志
+
+[良心云官网](http://e4rqm.ensl.cn/1d)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/良心云/price.png)
+
+</details>
+
+## Star History
+
+<a href="https://www.star-history.com/#jichangtuijian-cheap/cheap-airports&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=jichangtuijian-cheap/cheap-airports&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=jichangtuijian-cheap/cheap-airports&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=jichangtuijian-cheap/cheap-airports&type=Date" />
+ </picture>
+</a>
