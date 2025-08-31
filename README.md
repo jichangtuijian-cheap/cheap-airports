@@ -18,9 +18,11 @@
 | 14 | [Crush Cloud](#crush-cloud) | [官网](http://egifx.ensl.cn/87) | 2025-08-19 | 4元/月 150G |
 | 15 | [Neko Cloud](#neko-cloud) | [官网](http://e4ei7.avtk.cn/8f) | 2025-08-11 | 2元/月 100G |
 | 16 | [地鼠机场](#地鼠机场) | [官网](http://e48mb.avtk.cn/37) | 2024-08-19 | 1元/月 50G，推荐：3.99元/月 200G |
-| 17 | [NPC-Cloud](#npc-cloud) | [官网](http://e482p.ensl.cn/fb) | 2025-04-06 | 2.1元/月 10G，推荐：5元/月 100G |
+| 17 | [NPC-Cloud](#npc-cloud) | [官网](http://e4gg2.ensl.cn/a6) | 2025-04-06 | 2.1元/月 10G，推荐：5元/月 100G |
 | 18 | [水牛云](#水牛云) | [官网](http://e4r36.ensl.cn/7a) | 2024-08-19 | 9.9元/年 100G/月 |
 | 19 | [良心云](#良心云) | [官网](http://e4rqm.ensl.cn/1d) | 2025-03-20 | 2元/月 100G/月 |
+| 20 | [惊鸿云](#惊鸿云) | [官网](http://e4g4k.ensl.cn/c5) | 2025-06-13 | 5元/月 50G/月 |
+| 21 | [赛博云机场](#赛博云机场) | [官网](http://e4g4f.avtk.cn/8b) | 2025-03-01 | 3元/月 120G/月 |
 
 <hr>
 
@@ -205,6 +207,12 @@ Email: pianyijichang@proton.me
 ![套餐价格](./assists/一毛机场/price.png)
 
 </details>
+<details>
+<summary>测速</summary>
+
+![测速](./assists/一毛机场/speed.png)
+
+</details>
 
 <hr>
 
@@ -213,7 +221,7 @@ Email: pianyijichang@proton.me
 
 最低价套餐：1元/月 100G
 
-[早安云官网](http://egfzb.ensl.cn/6b)
+[早安云官网](http://e4ggq.ensl.cn/d4)
 <details>
 <summary>套餐价格</summary>
 
@@ -353,7 +361,7 @@ Email: pianyijichang@proton.me
 特点：
 * 全线路覆盖：家宽、原生、冷门节点
 
-[NPC-Cloud官网](http://e482p.ensl.cn/fb)
+[NPC-Cloud官网](http://e4gg2.ensl.cn/a6)
 <details>
 <summary>套餐价格</summary>
 
@@ -403,6 +411,43 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/良心云/price.png)
+
+</details>
+
+<hr>
+
+### 惊鸿云
+开业时间：2025-06-13
+
+最低价套餐：5元/月 50G/月
+
+特点：
+* 货真价实的iepl专线+电信入口
+
+[惊鸿云官网](http://e4g4k.ensl.cn/c5)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/惊鸿云/price.png)
+
+</details>
+
+<hr>
+
+### 赛博云机场
+开业时间：2025-03-01
+
+最低价套餐：3元/月 120G/月
+
+特点：
+* 节点地区：日本|新加坡|韩国|台湾|马来西亚|泰国|越南|印尼|印度|澳门|美国|加拿大|英国|荷兰|德国|法国|西班牙|瑞典|芬兰|爱尔兰|澳大利亚|土耳其|埃及|俄罗斯|乌克兰|哈萨克斯坦|孟加拉国|罗马尼亚|南非
+* 家宽节点
+
+[赛博云机场官网](http://e4g4f.avtk.cn/8b)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/赛博云机场/price.png)
 
 </details>
 
