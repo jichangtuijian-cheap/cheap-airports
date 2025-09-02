@@ -24,6 +24,8 @@
 | 20 | [惊鸿云](#惊鸿云) | [官网](http://e4g4k.ensl.cn/c5) | 2025-06-13 | 5元/月 50G/月 |
 | 21 | [赛博云机场](#赛博云机场) | [官网](http://e4g4f.avtk.cn/8b) | 2025-03-01 | 3元/月 120G/月 |
 | 22 | [SKY VPN](#sky-vpn) | [官网](http://e4gc1.avtk.cn/25) | 2021-10-05 | 0.5元/月 30G/月，推荐：4元/月 200G |
+| 23 | [鸡场](#鸡场) | [官网](http://e4ywu.ensl.cn/3a) | 2025-04-27 | 12.9元/年 100G/月 |
+| 24 | [渔云](#渔云) | [官网](http://e4yw5.avtk.cn/6e) | 2024-07-05 | 60元/年 148G/月 |
 
 <hr>
 
@@ -467,6 +469,45 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/SKY-VPN/price.png)
+
+</details>
+
+<hr>
+
+### 鸡场
+开业时间：2025-04-27
+
+最低价套餐：12.9元/年 100G/月
+
+特点：
+* 有免费套餐
+* 不限设备数
+* 50+节点
+
+[鸡场官网](http://e4ywu.ensl.cn/3a)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/鸡场/price.png)
+
+</details>
+
+<hr>
+
+### 渔云
+开业时间：2024-07-05
+
+最低价套餐：60元/年 148G/月
+
+特点：
+* 非电信IPV6新疆可用性保证
+* 不限设备数
+
+[渔云官网](http://e4yw5.avtk.cn/6e)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/渔云/price.png)
 
 </details>
 
