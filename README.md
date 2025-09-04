@@ -26,6 +26,8 @@
 | 22 | [SKY VPN](#sky-vpn) | [官网](http://e4gc1.avtk.cn/25) | 2021-10-05 | 0.5元/月 30G/月，推荐：4元/月 200G |
 | 23 | [鸡场](#鸡场) | [官网](http://e4ywu.ensl.cn/3a) | 2025-04-27 | 12.9元/年 100G/月 |
 | 24 | [渔云](#渔云) | [官网](http://e4yw5.avtk.cn/6e) | 2024-07-05 | 60元/年 148G/月 |
+| 25 | [飞狗](#飞狗) | [官网](http://e4pme.avtk.cn/44) | 2025-01-27 | 6元/年 100G/月 |
+| 26 | [迅隐云](#迅隐云) | [官网](http://e4pm4.avtk.cn/57) | 2025-02-07 | 15元/季度 200G/月 |
 
 <hr>
 
@@ -508,6 +510,43 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/渔云/price.png)
+
+</details>
+
+<hr>
+
+### 飞狗
+开业时间：2025-01-27
+
+最低价套餐：6元/年 100G/月
+
+特点：
+* 全直连节点
+
+[飞狗官网](http://e4pme.avtk.cn/44)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/飞狗/price.png)
+
+</details>
+
+<hr>
+
+### 迅隐云
+开业时间：2025-02-07
+
+最低价套餐：15元/季度 200G/月
+
+特点：
+* IEPL/IPLC国际专线节点
+* 支持Netflix、Tiktok、ChatGPT
+
+[迅隐云官网](http://e4pm4.avtk.cn/57)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/迅隐云/price.png)
 
 </details>
 
