@@ -11,7 +11,7 @@
 | 7  | [SRCloud](#SRCloud) | [官网](http://eg7f7.avtk.cn/35) | 2025-03-31 | 3元/月 50G |
 | 8  | [NetAccelera](#NetAccelera) | [官网](http://eg714.ensl.cn/00) | 2025-04-09 | 1元/月 18G，推荐：5元/月 188G |
 | 9  | [一毛机场](#一毛机场) | [官网](http://eg7vm.avtk.cn/8f) | 2023-09-20 | 1元/月 100G |
-| 10 | [早安云](#早安云) | [官网](http://egfzb.ensl.cn/6b) | 2024-09-14 | 1元/月 100G |
+| 10 | [早安云](#早安云) | [官网](http://e4piy.ensl.cn/86) | 2024-09-14 | 1元/月 100G |
 | 11 | [一元中转](#一元中转) | [官网](http://eg7v6.ensl.cn/35) | 2025-03-01 | 12元/年 50G/月 |
 | 12 | [白嫖机场](#白嫖机场) | [官网](http://egfhz.avtk.cn/8b) | 2022-12-28 | 19元/年 1T/月 |
 | 13 | [能用](#能用) | [官网](http://egfyq.avtk.cn/aa) | 2025-06-25 | 3元/月 30G |
@@ -31,6 +31,7 @@
 | 27 | [星空云](#星空云) | [官网](http://e4p58.avtk.cn/e2) | 2025-05-20 | 13元/半年 288G/月 |
 | 28 | [星链机场](#星链机场) | [官网](http://e4p5n.avtk.cn/78) | 2025-08-26 | 9.9元/年 300G/月 |
 | 29 | [星港机场](#星港机场) | [官网](http://e4p55.avtk.cn/ce) | 2025-07-14 | 1.49元/月 200G/月 |
+| 30 | [一分机场](#一分机场) | [官网](http://e4pcd.avtk.cn/7c) | 2023-02-01 | 2元/月 100G/月 |
 
 <hr>
 
@@ -229,7 +230,7 @@ Email: pianyijichang@proton.me
 
 最低价套餐：1元/月 100G
 
-[早安云官网](http://e4ggq.ensl.cn/d4)
+[早安云官网](http://e4piy.ensl.cn/86)
 <details>
 <summary>套餐价格</summary>
 
@@ -608,6 +609,24 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/星港机场/price.png)
+
+</details>
+
+<hr>
+
+### 一分机场
+开业时间：2023-02-01
+
+最低价套餐：2元/月 100G/月
+
+特点：
+* 不限设备数
+
+[一分机场官网](http://e4pcd.avtk.cn/7c)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/一分机场/price.png)
 
 </details>
 
