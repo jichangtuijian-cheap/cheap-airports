@@ -28,6 +28,9 @@
 | 24 | [渔云](#渔云) | [官网](http://e4yw5.avtk.cn/6e) | 2024-07-05 | 60元/年 148G/月 |
 | 25 | [飞狗](#飞狗) | [官网](http://e4pme.avtk.cn/44) | 2025-01-27 | 6元/年 100G/月 |
 | 26 | [迅隐云](#迅隐云) | [官网](http://e4pm4.avtk.cn/57) | 2025-02-07 | 15元/季度 200G/月 |
+| 27 | [星空云](#星空云) | [官网](http://e4p58.avtk.cn/e2) | 2025-05-20 | 13元/半年 288G/月 |
+| 28 | [星链机场](#星链机场) | [官网](http://e4p5n.avtk.cn/78) | 2025-08-26 | 9.9元/年 300G/月 |
+| 29 | [星港机场](#星港机场) | [官网](http://e4p55.avtk.cn/ce) | 2025-07-14 | 1.49元/月 200G/月 |
 
 <hr>
 
@@ -547,6 +550,64 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/迅隐云/price.png)
+
+</details>
+
+<hr>
+
+### 星空云
+开业时间：2025-05-20
+
+最低价套餐：13元/半年 288G/月
+
+特点：
+* 支持多地区高速节点：香港家宽、韩国家宽、新加坡、土耳其等
+* 支持Netflix、Tiktok、ChatGPT
+* 不限设备数
+
+[星空云官网](http://e4p58.avtk.cn/e2)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/星空云/price.png)
+
+</details>
+
+<hr>
+
+### 星链机场
+开业时间：2025-08-26
+
+最低价套餐：9.9元/年 300G/月
+
+特点：
+* 全场5~7折随机优惠券: rXRW47o8
+* 有公益免费套餐 100GB/月
+
+[星链机场官网](http://e4p5n.avtk.cn/78)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/星链机场/price.png)
+
+</details>
+
+<hr>
+
+### 星港机场
+开业时间：2025-07-14
+
+最低价套餐：1.49元/月 200G/月
+
+特点：
+* hy2协议
+* 不限速，不限设备
+
+[星港机场官网](http://e4p55.avtk.cn/ce)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/星港机场/price.png)
 
 </details>
 
