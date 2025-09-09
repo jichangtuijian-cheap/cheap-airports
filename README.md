@@ -1,5 +1,5 @@
 # 便宜机场 低价机场 划算机场 只收录最低套餐价格月付或平均月付5元以内的机场
-
+## 5分钟无门槛获取虚拟Visa卡，可绑定微信支付宝，[点击查看教程](./articles/payy/payy.md)
 | 序号 | 机场名（点击跳转详情） | 官网 | 开业时间 | 最低价套餐 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1  | [白嫖机场](#白嫖机场) | [官网](http://egfhz.avtk.cn/8b) | 2022-12-28 | 19元/年 1T/月（平均1.58元/月） |
@@ -36,6 +36,9 @@
 | 32 | [渔云](#渔云) | [官网](http://e4yw5.avtk.cn/6e) | 2024-07-05 | 60元/年 148G/月（平均5元/月） |
 
 <hr>
+
+## 5分钟无门槛获取虚拟Visa卡，可绑定微信支付宝，[点击查看教程](./articles/payy/payy.md)
+
 
 **联系我：**
 
@@ -681,6 +684,7 @@ Email: pianyijichang@proton.me
 
 </details>
 
+## 5分钟无门槛获取虚拟Visa卡，可绑定微信支付宝，[点击查看教程](./articles/payy/payy.md)
 ## Star History
 
 <a href="https://www.star-history.com/#jichangtuijian-cheap/cheap-airports&Date">
