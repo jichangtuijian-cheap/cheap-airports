@@ -13,7 +13,7 @@
 | 9  | [acyun](#acyun) | [官网](http://egfqx.ensl.cn/e6) | 2023-03-10 | 2元/月 300G |
 | 10 | [星链机场](#星链机场) | [官网](http://e4p5n.avtk.cn/78) | 2025-08-26 | 9.9元/年 300G/月（平均0.82元/月） |
 | 11 | [星空云](#星空云) | [官网](http://e4i17.ensl.cn/a0) | 2025-05-20 | 13元/半年 288G/月（平均2.17元/月） |
-| 12 | [SRCloud](#SRCloud) | [官网](http://eg7f7.avtk.cn/35) | 2025-03-31 | 3元/月 50G |
+| 12 | [SRCloud](#SRCloud) | [官网](http://e4ced.avtk.cn/3c) | 2025-03-31 | 3元/月 50G |
 | 13 | [良心云](#良心云) | [官网](http://e4rqm.ensl.cn/1d) | 2025-03-20 | 2元/月 100G/月，4元/月 500G |
 | 14 | [无觅云](#无觅云) | [官网](http://e46ne.avtk.cn/e0) | 2024-05-12 | 券后23.92元/年 300G/年（平均2元/月）|
 | 15 | [飞狗](#飞狗) | [官网](http://e4pme.avtk.cn/44) | 2025-01-27 | 6元/年 100G/月（平均0.5元/月） |
@@ -279,7 +279,7 @@ Email: pianyijichang@proton.me
 * 可以群内签到白嫖
 * 不限速
 
-[SRCloud官网](http://eg7f7.avtk.cn/35)
+[SRCloud官网](http://e4ced.avtk.cn/3c)
 <details>
 <summary>套餐价格</summary>
 
