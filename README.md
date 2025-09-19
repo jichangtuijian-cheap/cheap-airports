@@ -1,4 +1,5 @@
-# 便宜机场 低价机场 划算机场 平价机场 白嫖机场 只收录最低套餐价格月付或平均月付5元以内的机场
+# 便宜机场 低价机场 划算机场 平价机场 白嫖机场 
+# 只收录最低套餐价格月付或平均月付5元以内的机场
 ## 5分钟无门槛获取虚拟Visa卡，可绑定微信支付宝，[点击查看教程](./articles/payy/payy.md)
 | 序号 | 机场名（点击跳转详情） | 官网 | 开业时间 | 最低价套餐 |
 | -------- | -------- | -------- | -------- | -------- |
@@ -17,28 +18,29 @@
 | 13 | [SRCloud](#SRCloud) | [官网](http://e4ced.avtk.cn/3c) | 2025-03-31 | 3元/月 50G |
 | 14 | [良心云](#良心云) | [官网](http://e4rqm.ensl.cn/1d) | 2025-03-20 | 2元/月 100G/月，4元/月 500G |
 | 15 | [无觅云](#无觅云) | [官网](http://e46ne.avtk.cn/e0) | 2024-05-12 | 券后23.92元/年 300G/年（平均2元/月）|
-| 16 | [飞狗](#飞狗) | [官网](http://e4pme.avtk.cn/44) | 2025-01-27 | 6元/年 100G/月（平均0.5元/月） |
-| 17 | [星港机场](#星港机场) | [官网](http://e4p55.avtk.cn/ce) | 2025-07-14 | 1.49元/月 200G/月 |
-| 18 | [云鸟Loon](#云鸟loon) | [官网](http://e4s77.ensl.cn/00) | 2024-05-02 | 9.9元/年 100G/月（平均0.82元/月） |
-| 19 | [水牛云](#水牛云) | [官网](http://e4r36.ensl.cn/7a) | 2024-08-19 | 9.9元/年 100G/月（平均0.82元/月） |
-| 20 | [迅隐云](#迅隐云) | [官网](http://e4pm4.avtk.cn/57) | 2025-02-07 | 15元/季度 200G/月（平均5元/月） |
-| 21 | [鸡场](#鸡场) | [官网](http://e4s11.avtk.cn/51) | 2025-04-27 | 12.9元/年 100G/月（平均1.08元/月） |
-| 22 | [KooDog](#koodog) | [官网](http://egjqk.avtk.cn/5c) | 2024-06-27 | 5元/月 30G |
-| 23 | [冲上云霄](#冲上云霄) | [官网](http://egjqs.avtk.cn/aa) | 2024-07-22 | 5元/月 80G |
-| 24 | [奶茶](#奶茶) | [官网](http://egjsa.avtk.cn/cd) | 2025-07-17 | 5元/月 无限流量 |
-| 25 | [太阳鸟](#太阳鸟) | [官网](http://egjjb.ensl.cn/a2) | 2025-08-03 | 5元/月 60G |
-| 26 | [SKY VPN](#sky-vpn) | [官网](http://e4gc1.avtk.cn/25) | 2021-10-05 | 0.5元/月 30G/月，4元/月 200G |
-| 27 | [NetAccelera](#NetAccelera) | [官网](http://eg714.ensl.cn/00) | 2025-04-09 | 1元/月 18G，5元/月 188G |
-| 28 | [一元中转](#一元中转) | [官网](http://eg7v6.ensl.cn/35) | 2025-03-01 | 12元/年 50G/月（平均1元/月） |
-| 29 | [能用](#能用) | [官网](http://egfyq.avtk.cn/aa) | 2025-06-25 | 3元/月 30G |
-| 30 | [Crush Cloud](#crush-cloud) | [官网](http://egifx.ensl.cn/87) | 2025-08-19 | 4元/月 150G |
-| 31 | [Neko Cloud](#neko-cloud) | [官网](http://e4ei7.avtk.cn/8f) | 2025-08-11 | 2元/月 100G |
-| 32 | [地鼠机场](#地鼠机场) | [官网](http://e48mb.avtk.cn/37) | 2024-08-19 | 1元/月 50G，3.99元/月 200G |
-| 33 | [NPC-Cloud](#npc-cloud) | [官网](http://e4gg2.ensl.cn/a6) | 2025-04-06 | 2.1元/月 10G，5元/月 100G |
-| 34 | [惊鸿云](#惊鸿云) | [官网](http://e4g4k.ensl.cn/c5) | 2025-06-13 | 5元/月 50G/月 |
-| 35 | [赛博云机场](#赛博云机场) | [官网](http://e4g4f.avtk.cn/8b) | 2025-03-01 | 3元/月 120G/月 |
-| 36 | [iNetS](#iNetS) | [官网](http://e4658.ensl.cn/78) | 2025-04-27 | 4.9元/月 50G/月 |
-| 37 | [克拉云机场](#克拉云机场) | [官网](http://e4cw1.ensl.cn/2e) | 2025-09-15 | 2元/月 1T/月 |
+| 16 | [奶茶](#奶茶) | [官网](http://egjsa.avtk.cn/cd) | 2025-07-17 | 5元/月 无限流量 |
+| 17 | [SKY VPN](#sky-vpn) | [官网](http://e4gc1.avtk.cn/25) | 2021-10-05 | 0.5元/月 30G/月，4元/月 200G |
+| 18 | [迅隐云](#迅隐云) | [官网](http://e4pm4.avtk.cn/57) | 2025-02-07 | 15元/季度 200G/月（平均5元/月） |
+| 19 | [星港机场](#星港机场) | [官网](http://e4p55.avtk.cn/ce) | 2025-07-14 | 1.49元/月 200G/月 |
+| 20 | [云鸟Loon](#云鸟loon) | [官网](http://e4s77.ensl.cn/00) | 2024-05-02 | 9.9元/年 100G/月（平均0.82元/月） |
+| 21 | [水牛云](#水牛云) | [官网](http://e4r36.ensl.cn/7a) | 2024-08-19 | 9.9元/年 100G/月（平均0.82元/月） |
+| 22 | [鸡场](#鸡场) | [官网](http://e4s11.avtk.cn/51) | 2025-04-27 | 12.9元/年 100G/月（平均1.08元/月） |
+| 23 | [NetAccelera](#NetAccelera) | [官网](http://eg714.ensl.cn/00) | 2025-04-09 | 1元/月 18G，5元/月 188G |
+| 24 | [太阳鸟](#太阳鸟) | [官网](http://egjjb.ensl.cn/a2) | 2025-08-03 | 5元/月 60G |
+| 25 | [一元中转](#一元中转) | [官网](http://eg7v6.ensl.cn/35) | 2025-03-01 | 12元/年 50G/月（平均1元/月） |
+| 26 | [冲上云霄](#冲上云霄) | [官网](http://egjqs.avtk.cn/aa) | 2024-07-22 | 5元/月 80G |
+| 27 | [橘色云](#橘色云) | [官网](http://ehb1p.avtk.cn/bc) | 2024-01-26 | 11.5元/季 61G/月（平均3.83元/月） |
+| 28 | [KooDog](#koodog) | [官网](http://egjqk.avtk.cn/5c) | 2024-06-27 | 5元/月 30G |
+| 29 | [Crush Cloud](#crush-cloud) | [官网](http://egifx.ensl.cn/87) | 2025-08-19 | 4元/月 150G |
+| 30 | [飞狗](#飞狗) | [官网](http://e4pme.avtk.cn/44) | 2025-01-27 | 6元/年 100G/月（平均0.5元/月） |
+| 31 | [地鼠机场](#地鼠机场) | [官网](http://e48mb.avtk.cn/37) | 2024-08-19 | 1元/月 50G，3.99元/月 200G |
+| 32 | [NPC-Cloud](#npc-cloud) | [官网](http://e4gg2.ensl.cn/a6) | 2025-04-06 | 2.1元/月 10G，5元/月 100G |
+| 33 | [惊鸿云](#惊鸿云) | [官网](http://e4g4k.ensl.cn/c5) | 2025-06-13 | 5元/月 50G/月 |
+| 34 | [iNetS](#iNetS) | [官网](http://e4658.ensl.cn/78) | 2025-04-27 | 4.9元/月 50G/月 |
+| 35 | [克拉云机场](#克拉云机场) | [官网](http://e4cw1.ensl.cn/2e) | 2025-09-15 | 2元/月 1T/月 |
+| 36 | [Neko Cloud](#neko-cloud) | [官网](http://e4ei7.avtk.cn/8f) | 2025-08-11 | 2元/月 100G |
+| 37 | [赛博云机场](#赛博云机场) | [官网](http://e4g4f.avtk.cn/8b) | 2025-03-01 | 3元/月 120G/月 |
+| 38 | [能用](#能用) | [官网](http://egfyq.avtk.cn/aa) | 2025-06-25 | 3元/月 30G |
 
 <hr>
 
@@ -367,21 +369,56 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 飞狗
-开业时间：2025-01-27
+### 奶茶
+开业时间：2025-07-17
 
-最低价套餐：6元/年 100G/月（平均0.5元/月）
+最低价套餐：5元/月 无限流量
 
 特点：
-* 全直连节点
-* 特惠年付6元 （推荐作为备用） 每月100G流量，节点0.5X，实际使用流量200G
-其余套餐均为高速中转套餐，含0.5X节点，和中转1X节点，速度更快，体验更佳 
+* **无限流量**
 
-[飞狗官网](http://e4pme.avtk.cn/44)
+[奶茶官网](http://egjsa.avtk.cn/cd)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/飞狗/price.png)
+![套餐价格](./assists/奶茶/price.png)
+
+</details>
+
+<hr>
+
+### SKY VPN
+开业时间：2021-10-05
+
+最低价套餐：0.5元/月 30G/月，4元/月 200G
+
+特点：
+* 免流节点
+
+[SKY VPN官网](http://e4gc1.avtk.cn/25)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/SKY-VPN/price.png)
+
+</details>
+
+<hr>
+
+### 迅隐云
+开业时间：2025-02-07
+
+最低价套餐：15元/季度 200G/月（平均5元/月）
+
+特点：
+* IEPL/IPLC国际专线节点
+* 支持Netflix、Tiktok、ChatGPT
+
+[迅隐云官网](http://e4pm4.avtk.cn/57)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/迅隐云/price.png)
 
 </details>
 
@@ -451,25 +488,6 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 迅隐云
-开业时间：2025-02-07
-
-最低价套餐：15元/季度 200G/月（平均5元/月）
-
-特点：
-* IEPL/IPLC国际专线节点
-* 支持Netflix、Tiktok、ChatGPT
-
-[迅隐云官网](http://e4pm4.avtk.cn/57)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/迅隐云/price.png)
-
-</details>
-
-<hr>
-
 ### 鸡场
 开业时间：2025-04-27
 
@@ -485,106 +503,6 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/鸡场/price.png)
-
-</details>
-
-<hr>
-
-### KooDog
-开业时间：2024-06-27
-
-最低价套餐：5元/月 30G
-
-特点：
-* BGP跨境专线
-* 奈飞|Porn|Prime免登入观影
-* 闲暇时段低倍率计费
-
-[KooDog官网](http://egjqk.avtk.cn/5c)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/KooDog/price.png)
-
-</details>
-<details>
-<summary>测速</summary>
-
-![测速](./assists/KooDog/speed.png)
-
-</details>
-
-<hr>
-
-### 冲上云霄
-开业时间：2024-07-22
-
-最低价套餐：5元/月 80G
-
-特点：
-* 家宽节点
-* 流媒体解锁 & GPT不降智
-
-[冲上云霄官网](http://egjqs.avtk.cn/aa)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/冲上云霄/price.png)
-
-</details>
-
-<hr>
-
-### 奶茶
-开业时间：2025-07-17
-
-最低价套餐：5元/月 无限流量
-
-特点：
-* **无限流量**
-
-[奶茶官网](http://egjsa.avtk.cn/cd)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/奶茶/price.png)
-
-</details>
-
-<hr>
-
-### 太阳鸟
-开业时间：2025-08-03
-
-最低价套餐：5元/月 60G
-
-特点：
-* 所有节点均采用中转专线
-* 无设备数限制,无晚高峰限速，无在线IP限制
-
-[太阳鸟官网](http://egjjb.ensl.cn/a2)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/太阳鸟/price.png)
-
-</details>
-
-<hr>
-
-### SKY VPN
-开业时间：2021-10-05
-
-最低价套餐：0.5元/月 30G/月，4元/月 200G
-
-特点：
-* 免流节点
-
-[SKY VPN官网](http://e4gc1.avtk.cn/25)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/SKY-VPN/price.png)
 
 </details>
 
@@ -611,6 +529,25 @@ Email: pianyijichang@proton.me
 
 <hr>
 
+### 太阳鸟
+开业时间：2025-08-03
+
+最低价套餐：5元/月 60G
+
+特点：
+* 所有节点均采用中转专线
+* 无设备数限制,无晚高峰限速，无在线IP限制
+
+[太阳鸟官网](http://egjjb.ensl.cn/a2)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/太阳鸟/price.png)
+
+</details>
+
+<hr>
+
 ### 一元中转
 开业时间：2025-03-01
 
@@ -626,20 +563,64 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 能用
-开业时间：2025-06-25
+### 冲上云霄
+开业时间：2024-07-22
 
-最低价套餐：3元/月 30G
+最低价套餐：5元/月 80G
 
 特点：
-* 解锁: Netflix, Disney+, ChatGPT, MyTVSuper, HBO, BiliBili, Bahamut等
-* 节点无审计
+* 家宽节点
+* 流媒体解锁 & GPT不降智
 
-[能用官网](http://egfyq.avtk.cn/aa)
+[冲上云霄官网](http://egjqs.avtk.cn/aa)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/能用/price.png)
+![套餐价格](./assists/冲上云霄/price.png)
+
+</details>
+
+<hr>
+
+### 橘色云
+开业时间：2024-01-26
+
+最低价套餐：11.5元/季 61G/月（平均3.83元/月）
+
+特点：
+* 全中转线路
+* 不限制设备数
+
+[橘色云官网](http://ehb1p.avtk.cn/bc)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/橘色云/price.png)
+
+</details>
+
+<hr>
+### KooDog
+开业时间：2024-06-27
+
+最低价套餐：5元/月 30G
+
+特点：
+* BGP跨境专线
+* 奈飞|Porn|Prime免登入观影
+* 闲暇时段低倍率计费
+
+[KooDog官网](http://egjqk.avtk.cn/5c)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/KooDog/price.png)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./assists/KooDog/speed.png)
 
 </details>
 
@@ -671,20 +652,21 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### Neko Cloud
-开业时间：2025-08-11
+### 飞狗
+开业时间：2025-01-27
 
-最低价套餐：2元/月 100G
+最低价套餐：6元/年 100G/月（平均0.5元/月）
 
 特点：
-* 不验证邮箱，新用户有试用流量
-* 有家宽节点
+* 全直连节点
+* 特惠年付6元 （推荐作为备用） 每月100G流量，节点0.5X，实际使用流量200G
+其余套餐均为高速中转套餐，含0.5X节点，和中转1X节点，速度更快，体验更佳 
 
-[Neko Cloud官网](http://e4ei7.avtk.cn/8f)
+[飞狗官网](http://e4pme.avtk.cn/44)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/NekoCloud/price.png)
+![套餐价格](./assists/飞狗/price.png)
 
 </details>
 
@@ -745,32 +727,13 @@ Email: pianyijichang@proton.me
 
 特点：
 * 货真价实的iepl专线+电信入口
+* 日本、韩国、美国、英国、新加坡等地高质量节点
 
 [惊鸿云官网](http://e4g4k.ensl.cn/c5)
 <details>
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/惊鸿云/price.png)
-
-</details>
-
-<hr>
-
-### 赛博云机场
-开业时间：2025-03-01
-
-最低价套餐：3元/月 120G/月
-
-特点：
-* 可以免费使用
-* 节点地区：日本|新加坡|韩国|台湾|马来西亚|泰国|越南|印尼|印度|澳门|美国|加拿大|英国|荷兰|德国|法国|西班牙|瑞典|芬兰|爱尔兰|澳大利亚|土耳其|埃及|俄罗斯|乌克兰|哈萨克斯坦|孟加拉国|罗马尼亚|南非
-* 家宽节点
-
-[赛博云机场官网](http://e4g4f.avtk.cn/8b)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/赛博云机场/price.png)
 
 </details>
 
@@ -809,6 +772,64 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/克拉云机场/price.png)
+
+</details>
+
+<hr>
+
+### Neko Cloud
+开业时间：2025-08-11
+
+最低价套餐：2元/月 100G
+
+特点：
+* 不验证邮箱，新用户有试用流量
+* 有家宽节点
+
+[Neko Cloud官网](http://e4ei7.avtk.cn/8f)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/NekoCloud/price.png)
+
+</details>
+
+<hr>
+
+### 赛博云机场
+开业时间：2025-03-01
+
+最低价套餐：3元/月 120G/月
+
+特点：
+* 可以免费使用
+* 节点地区：日本|新加坡|韩国|台湾|马来西亚|泰国|越南|印尼|印度|澳门|美国|加拿大|英国|荷兰|德国|法国|西班牙|瑞典|芬兰|爱尔兰|澳大利亚|土耳其|埃及|俄罗斯|乌克兰|哈萨克斯坦|孟加拉国|罗马尼亚|南非
+* 家宽节点
+
+[赛博云机场官网](http://e4g4f.avtk.cn/8b)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/赛博云机场/price.png)
+
+</details>
+
+<hr>
+
+### 能用
+开业时间：2025-06-25
+
+最低价套餐：3元/月 30G
+
+特点：
+* 解锁: Netflix, Disney+, ChatGPT, MyTVSuper, HBO, BiliBili, Bahamut等
+* 节点无审计
+
+[能用官网](http://egfyq.avtk.cn/aa)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/能用/price.png)
 
 </details>
 
