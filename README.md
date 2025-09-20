@@ -4,7 +4,7 @@
 | 序号 | 机场名（点击跳转详情） | 官网 | 开业时间 | 最低价套餐 |
 | -------- | -------- | -------- | -------- | -------- |
 | 1  | [白嫖机场](#白嫖机场) | [官网](http://egfhz.avtk.cn/8b) | 2022-12-28 | 19元/年 1T/月（平均1.58元/月） |
-| 2  | [CrossWall](#crosswall) | [官网](http://e4jrz.ensl.cn/95) | 2025-02-14 | 24元/年 218G/月（平均2元/月） |
+| 2  | [Kitty Network](#kitty-network) | [官网](http://ehmf6.avtk.cn/4c) | 2024-09-18 | 24元/年 128G/月（平均2元/月） |
 | 3  | [雪山机场](#雪山机场) | [官网](http://e4c7b.ensl.cn/2d) | 2025-02-14 | 30元/年,200G/月（平均2.5元/月）送Emby |
 | 4  | [一毛机场](#一毛机场) | [官网](http://eg7vm.avtk.cn/8f) | 2023-09-20 | 1元/月 100G，3元/月 500G |
 | 5  | [早安云](#早安云) | [官网](http://e4piy.ensl.cn/86) | 2024-09-14 | 1元/月 100G，2元/月 500G，3元/月 1T |
@@ -75,21 +75,20 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### CrossWall
-开业时间：2025-02-14
+### Kitty Network
+开业时间：2024-09-18
 
-最低价套餐：24元/年 218G/月（平均2元/月）
+最低价套餐：24元/年 128G/月（平均2元/月）
 
 特点：
-* 不限设备数
-* 特殊地区支持：新疆、河南、江苏、福建泉州等地区稳定可用
-* 独家DNS算法平衡负载，人多不卡顿
+* 不限速，不限在线设备数量
+* 解锁 Netflix，Disney+，ChatGPT等
 
-[CrossWall官网](http://e4jrz.ensl.cn/95)
+[Kitty Network官网](http://ehmf6.avtk.cn/4c)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/CrossWall/price.png)
+![套餐价格](./assists/Kitty-Network/price.png)
 
 </details>
 
