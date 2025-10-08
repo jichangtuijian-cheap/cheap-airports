@@ -39,10 +39,10 @@
 | 34 | [惊鸿云](#惊鸿云) | [官网](https://sink.cheapairports.dpdns.org/at364s) | 2025-06-13 | 5元/月 50G/月 |
 | 35 | [iNetS](#iNetS) | [官网](https://sink.cheapairports.dpdns.org/77yc73) | 2025-04-27 | 4.9元/月 50G/月 |
 | 36 | [克拉云机场](#克拉云机场) | [官网](https://sink.cheapairports.dpdns.org/mpxtbd) | 2025-09-15 | 2元/月 1T/月 |
-| 37 | [Neko Cloud](#neko-cloud) | [官网](https://sink.cheapairports.dpdns.org/q7v894) | 2025-08-11 | 2元/月 100G |
+| 37 | [Neko Cloud](#neko-cloud) | [官网](https://sink.cheapairports.dpdns.org/q7v894) | 2025-08-11 | 5元/月 500G |
 | 38 | [赛博云机场](#赛博云机场) | [官网](https://sink.cheapairports.dpdns.org/hcc8v6) | 2025-03-01 | 3元/月 120G/月 |
 | 39 | [能用](#能用) | [官网](https://sink.cheapairports.dpdns.org/nmpxz4) | 2025-06-25 | 3元/月 30G |
-| 40 | [甜甜的蜜雪冰城](#甜甜的蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/psbufk) | 2025-08-27 | 1元/3年 88G/月 |
+| 40 | [可爱多](#可爱多) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2025-08-27 | 3元/月 100G/月 |
 
 <hr>
 
@@ -801,11 +801,10 @@ Email: pianyijichang@proton.me
 ### Neko Cloud
 开业时间：2025-08-11
 
-最低价套餐：2元/月 100G
+最低价套餐：5元/月 500G
 
 特点：
-* 不验证邮箱，新用户有试用流量
-* 有家宽节点
+* Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
 
 [Neko Cloud官网](https://sink.cheapairports.dpdns.org/q7v894)
 <details>
@@ -856,26 +855,20 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 甜甜的蜜雪冰城
+### 可爱多
 开业时间：2025-08-27
 
-最低价套餐：1元/3年 88G/月，公益套餐，加入群组可领取白嫖码
+最低价套餐：3元/月 100G/月，公益套餐，加入群组可领取白嫖码
 
 特点：
-* 有公益套餐，免费用3年
+* 有公益套餐
 * Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
 
-[甜甜的蜜雪冰城官网](https://sink.cheapairports.dpdns.org/psbufk)
+[可爱多官网](https://sink.cheapairports.dpdns.org/hwm7wr)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/甜甜的蜜雪冰城/price.png)
-
-</details>
-<details>
-<summary>测速</summary>
-
-![测速](./assists/甜甜的蜜雪冰城/speed.jpg)
+![套餐价格](./assists/可爱多/price.png)
 
 </details>
 
