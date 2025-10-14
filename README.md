@@ -13,7 +13,7 @@
 | 8  | [赔钱机场](#赔钱机场) | [官网](https://sink.cheapairports.dpdns.org/zwp49s) | 2022-11-22 | 1.5元/月 100G/月，2.99元/月 500G |
 | 9  | [流量光机场](#流量光机场) | [官网](https://sink.cheapairports.dpdns.org/rsjxqm) | 2024-06-21 | 4.9元/月 150G/月 |
 | 10 | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 2024-07-05 | 60元/年 148G/月（平均5元/月） |
-| 11 | [acyun](#acyun) | [官网](https://sink.cheapairports.dpdns.org/6rzq4p) | 2023-03-10 | 2元/月 300G |
+| 11 | [acyun](#acyun) | [官网](https://sink.cheapairports.dpdns.org/6rzq4p) | 2023-03-10 | 3元/月 300G |
 | 12 | [星链机场](#星链机场) | [官网](https://sink.cheapairports.dpdns.org/3h2qg2) | 2025-08-26 | 9.9元/年 300G/月（平均0.82元/月） |
 | 13 | [星空云](#星空云) | [官网](https://sink.cheapairports.dpdns.org/nyrfgm) | 2025-05-20 | 13元/半年 288G/月（平均2.17元/月） |
 | 14 | [SRCloud](#SRCloud) | [官网](https://sink.cheapairports.dpdns.org/6dpnrh) | 2025-03-31 | 3元/月 50G |
@@ -275,7 +275,7 @@ Email: pianyijichang@proton.me
 ### acyun
 开业时间：2023-03-10
 
-最低价套餐：2元/月 300G
+最低价套餐：3元/月 300G
 
 特点：
 * 冷门地区
