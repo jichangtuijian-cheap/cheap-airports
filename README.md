@@ -15,35 +15,36 @@
 | 10 | [果粒橙](#果粒橙) | [官网](https://sink.cheapairports.dpdns.org/6bqxq7) | 2022-03-19 | 5元/月 1T/月 |
 | 11 | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 2024-07-05 | 60元/年 148G/月（平均5元/月） |
 | 12 | [acyun](#acyun) | [官网](https://sink.cheapairports.dpdns.org/6rzq4p) | 2023-03-10 | 3元/月 300G |
-| 13 | [星链机场](#星链机场) | [官网](https://sink.cheapairports.dpdns.org/3h2qg2) | 2025-08-26 | 9.9元/年 300G/月（平均0.82元/月） |
-| 14 | [星空云](#星空云) | [官网](https://sink.cheapairports.dpdns.org/nyrfgm) | 2025-05-20 | 13元/半年 288G/月（平均2.17元/月） |
-| 15 | [SRCloud](#SRCloud) | [官网](https://sink.cheapairports.dpdns.org/6dpnrh) | 2025-03-31 | 3元/月 50G |
-| 16 | [良心云](#良心云) | [官网](https://sink.cheapairports.dpdns.org/zxrc3d) | 2025-03-20 | 2元/月 100G/月，4元/月 500G |
-| 17 | [无觅云](#无觅云) | [官网](https://sink.cheapairports.dpdns.org/5tkdkc) | 2024-05-12 | 券后23.92元/年 300G/年（平均2元/月）|
-| 18 | [奶茶](#奶茶) | [官网](https://sink.cheapairports.dpdns.org/ffpztg) | 2025-07-17 | 5元/月 无限流量 |
-| 19 | [SKY VPN](#sky-vpn) | [官网](https://sink.cheapairports.dpdns.org/5ad9zr) | 2021-10-05 | 0.5元/月 30G/月，4元/月 200G |
-| 20 | [迅隐云](#迅隐云) | [官网](https://sink.cheapairports.dpdns.org/48zr9f) | 2025-02-07 | 15元/季度 200G/月（平均5元/月） |
-| 21 | [云鸟Loon](#云鸟loon) | [官网](https://sink.cheapairports.dpdns.org/8qrcge) | 2024-05-02 | 9.9元/年 100G/月（平均0.82元/月） |
-| 22 | [水牛云](#水牛云) | [官网](https://sink.cheapairports.dpdns.org/uv6ate) | 2024-08-19 | 9.9元/年 100G/月（平均0.82元/月） |
-| 23 | [鸡场](#鸡场) | [官网](https://sink.cheapairports.dpdns.org/e6vz65) | 2025-04-27 | 12.9元/年 100G/月（平均1.08元/月） |
-| 24 | [NetAccelera](#NetAccelera) | [官网](https://sink.cheapairports.dpdns.org/23mzmc) | 2025-04-09 | 1元/月 18G，5元/月 188G |
-| 25 | [太阳鸟](#太阳鸟) | [官网](https://sink.cheapairports.dpdns.org/9ee2tu) | 2025-08-03 | 5元/月 60G |
-| 26 | [一元中转](#一元中转) | [官网](https://sink.cheapairports.dpdns.org/7s3tb6) | 2025-03-01 | 12元/年 50G/月（平均1元/月） |
-| 27 | [冲上云霄](#冲上云霄) | [官网](https://sink.cheapairports.dpdns.org/p5m39v) | 2024-07-22 | 5元/月 80G |
-| 28 | [橘色云](#橘色云) | [官网](https://sink.cheapairports.dpdns.org/r47das) | 2024-01-26 | 11.5元/季 61G/月（平均3.83元/月） |
-| 29 | [KooDog](#koodog) | [官网](https://sink.cheapairports.dpdns.org/pxnk6y) | 2024-06-27 | 5元/月 35G |
-| 30 | [Crush Cloud](#crush-cloud) | [官网](https://sink.cheapairports.dpdns.org/v2f6xf) | 2025-08-19 | 4元/月 150G |
-| 31 | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 2025-01-27 | 6元/季 100G/月（平均2元/月） |
-| 32 | [地鼠机场](#地鼠机场) | [官网](https://sink.cheapairports.dpdns.org/54k349) | 2024-08-19 | 1元/月 50G，3.99元/月 200G |
-| 33 | [NPC-Cloud](#npc-cloud) | [官网](https://sink.cheapairports.dpdns.org/adgvh5) | 2025-04-06 | 2.1元/月 10G，5元/月 100G |
-| 34 | [惊鸿云](#惊鸿云) | [官网](https://sink.cheapairports.dpdns.org/at364s) | 2025-06-13 | 5元/月 50G/月 |
-| 35 | [iNetS](#iNetS) | [官网](https://sink.cheapairports.dpdns.org/77yc73) | 2025-04-27 | 4.9元/月 50G/月 |
-| 36 | [克拉云机场](#克拉云机场) | [官网](https://sink.cheapairports.dpdns.org/mpxtbd) | 2025-09-15 | 2元/月 1T/月 |
-| 37 | [Neko Cloud](#neko-cloud) | [官网](https://sink.cheapairports.dpdns.org/q7v894) | 2025-08-11 | 2.99元/月 200G |
-| 38 | [赛博云机场](#赛博云机场) | [官网](https://sink.cheapairports.dpdns.org/hcc8v6) | 2025-03-01 | 3元/月 120G/月 |
-| 39 | [能用](#能用) | [官网](https://sink.cheapairports.dpdns.org/nmpxz4) | 2025-06-25 | 3元/月 30G |
-| 40 | [可爱多](#可爱多) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2025-08-27 | 3元/月 100G/月 |
-| 41 | [源哥3r中转机场](#源哥3r中转机场) | [官网](https://sink.cheapairports.dpdns.org/e8dzbf) | 2025-08-28 | 3元/月 40G/月 |
+| 13 | [糯米](#糯米) | [官网](https://sink.cheapairports.dpdns.org/233sxx) | 2024-03-23 | 12元/年 100G/月（平均1元/月）|
+| 14 | [星链机场](#星链机场) | [官网](https://sink.cheapairports.dpdns.org/3h2qg2) | 2025-08-26 | 9.9元/年 300G/月（平均0.82元/月） |
+| 15 | [星空云](#星空云) | [官网](https://sink.cheapairports.dpdns.org/nyrfgm) | 2025-05-20 | 13元/半年 288G/月（平均2.17元/月） |
+| 16 | [SRCloud](#SRCloud) | [官网](https://sink.cheapairports.dpdns.org/6dpnrh) | 2025-03-31 | 3元/月 50G |
+| 17 | [良心云](#良心云) | [官网](https://sink.cheapairports.dpdns.org/zxrc3d) | 2025-03-20 | 2元/月 100G/月，4元/月 500G |
+| 18 | [无觅云](#无觅云) | [官网](https://sink.cheapairports.dpdns.org/5tkdkc) | 2024-05-12 | 券后23.92元/年 300G/年（平均2元/月）|
+| 19 | [奶茶](#奶茶) | [官网](https://sink.cheapairports.dpdns.org/ffpztg) | 2025-07-17 | 5元/月 无限流量 |
+| 20 | [SKY VPN](#sky-vpn) | [官网](https://sink.cheapairports.dpdns.org/5ad9zr) | 2021-10-05 | 0.5元/月 30G/月，4元/月 200G |
+| 21 | [迅隐云](#迅隐云) | [官网](https://sink.cheapairports.dpdns.org/48zr9f) | 2025-02-07 | 15元/季度 200G/月（平均5元/月） |
+| 22 | [云鸟Loon](#云鸟loon) | [官网](https://sink.cheapairports.dpdns.org/8qrcge) | 2024-05-02 | 9.9元/年 100G/月（平均0.82元/月） |
+| 23 | [水牛云](#水牛云) | [官网](https://sink.cheapairports.dpdns.org/uv6ate) | 2024-08-19 | 9.9元/年 100G/月（平均0.82元/月） |
+| 24 | [鸡场](#鸡场) | [官网](https://sink.cheapairports.dpdns.org/e6vz65) | 2025-04-27 | 12.9元/年 100G/月（平均1.08元/月） |
+| 25 | [NetAccelera](#NetAccelera) | [官网](https://sink.cheapairports.dpdns.org/23mzmc) | 2025-04-09 | 1元/月 18G，5元/月 188G |
+| 26 | [太阳鸟](#太阳鸟) | [官网](https://sink.cheapairports.dpdns.org/9ee2tu) | 2025-08-03 | 5元/月 60G |
+| 27 | [一元中转](#一元中转) | [官网](https://sink.cheapairports.dpdns.org/7s3tb6) | 2025-03-01 | 12元/年 50G/月（平均1元/月） |
+| 28 | [冲上云霄](#冲上云霄) | [官网](https://sink.cheapairports.dpdns.org/p5m39v) | 2024-07-22 | 5元/月 80G |
+| 29 | [橘色云](#橘色云) | [官网](https://sink.cheapairports.dpdns.org/r47das) | 2024-01-26 | 11.5元/季 61G/月（平均3.83元/月） |
+| 30 | [KooDog](#koodog) | [官网](https://sink.cheapairports.dpdns.org/pxnk6y) | 2024-06-27 | 5元/月 35G |
+| 31 | [Crush Cloud](#crush-cloud) | [官网](https://sink.cheapairports.dpdns.org/v2f6xf) | 2025-08-19 | 4元/月 150G |
+| 32 | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 2025-01-27 | 6元/季 100G/月（平均2元/月） |
+| 33 | [地鼠机场](#地鼠机场) | [官网](https://sink.cheapairports.dpdns.org/54k349) | 2024-08-19 | 1元/月 50G，3.99元/月 200G |
+| 34 | [NPC-Cloud](#npc-cloud) | [官网](https://sink.cheapairports.dpdns.org/adgvh5) | 2025-04-06 | 2.1元/月 10G，5元/月 100G |
+| 35 | [惊鸿云](#惊鸿云) | [官网](https://sink.cheapairports.dpdns.org/at364s) | 2025-06-13 | 5元/月 50G/月 |
+| 36 | [iNetS](#iNetS) | [官网](https://sink.cheapairports.dpdns.org/77yc73) | 2025-04-27 | 4.9元/月 50G/月 |
+| 37 | [克拉云机场](#克拉云机场) | [官网](https://sink.cheapairports.dpdns.org/mpxtbd) | 2025-09-15 | 2元/月 1T/月 |
+| 38 | [Neko Cloud](#neko-cloud) | [官网](https://sink.cheapairports.dpdns.org/q7v894) | 2025-08-11 | 2.99元/月 200G |
+| 39 | [赛博云机场](#赛博云机场) | [官网](https://sink.cheapairports.dpdns.org/hcc8v6) | 2025-03-01 | 3元/月 120G/月 |
+| 40 | [能用](#能用) | [官网](https://sink.cheapairports.dpdns.org/nmpxz4) | 2025-06-25 | 3元/月 30G |
+| 41 | [可爱多](#可爱多) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2025-08-27 | 3元/月 100G/月 |
+| 42 | [源哥3r中转机场](#源哥3r中转机场) | [官网](https://sink.cheapairports.dpdns.org/e8dzbf) | 2025-08-28 | 3元/月 40G/月 |
 
 <hr>
 
@@ -309,6 +310,30 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/acyun/price.png)
+
+</details>
+
+<hr>
+
+### 糯米
+开业时间：2024-03-23
+
+最低价套餐：12元/年 100G/月（平均1元/月）限时开放
+
+特点：
+* 📺解锁Netflix/Tiktok等流媒体
+* 🤖️解锁ChatGPT，Copilot等
+* ⚡️最高速度 1000Mbps  
+* ✅解锁主流常用国家地区节点，极致的性价比
+* 🍎会员可使用站内提供的iOS共享账号
+* ㊙️同等采用全新soga内核  极大保障数据传输安全
+* ❗️此套餐不定期限时限量开放
+
+[糯米官网](https://sink.cheapairports.dpdns.org/233sxx)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/糯米/price.png)
 
 </details>
 
