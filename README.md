@@ -2,9 +2,9 @@
 
 |  |  |
 |:----------------------------------:|:----------------------------------:|
-| [📈 跟单一个月+20%，普通人不会交易也能稳定盈利](./articles/hyperx/hyperx.md) | ![](./cover/2.jpg) |
-| [💵 普通人小本金怎么通过币圈年入20w+](./articles/crypto/makesomecoins.md) | ![](./cover/2.jpg) |
-| [💳 5分钟无门槛获取Visa卡，可绑定微信支付宝，可以兑换实体卡](./articles/payy/payy.md) | ![Learn More](./cover/3.jpg) |
+| [📈 跟单一个月+20%，普通人不会交易也能稳定盈利](./articles/hyperx/hyperx.md) | [![](./cover/1.jpg)](./articles/hyperx/hyperx.md) |
+| [💵 普通人小本金怎么通过币圈年入20w+](./articles/crypto/makesomecoins.md) | [![](./cover/2.jpg)](./articles/crypto/makesomecoins.md) |
+| [💳 5分钟无门槛获取Visa卡，可绑定微信支付宝，可以兑换实体卡](./articles/payy/payy.md) | [![](./cover/3.jpg)](./articles/payy/payy.md) |
 
 <hr>
 
