@@ -50,6 +50,8 @@
 | 38 | [源哥3r中转机场](#源哥3r中转机场) | [官网](https://sink.cheapairports.dpdns.org/e8dzbf) | 3元/月 40G/月 |
 | 39 | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 2.6元/月 200G/月 |
 | 40 | [顶级机场](#顶级机场) | [官网](https://sink.cheapairports.dpdns.org/t6am4v) | 15.6元/年 200G/月（平均1.3元/月） |
+| 41 | [ASA加速器](#ASA加速器) | [官网](https://sink.cheapairports.dpdns.org/wck92u) | 2元/月 100G/月,30元/年2T（平均2.5元/月） |
+| 42 | [云际节点](#云际节点) | [官网](https://sink.cheapairports.dpdns.org/uhzrar) | 2.9元/月 600G/月 |
 
 <hr>
 
@@ -77,10 +79,6 @@ Email: pianyijichang@proton.me
 开业时间：2025-09-02
 
 最低价套餐：39.9元/年,200G/月（平均3.3元/月）送Emby；月付8.9元/月 1T/月
-
-活动时间：2025年11月28日 — 12月1日
-优惠福利：七折限量优惠券
-优惠券口令：2025黑色星期五
 
 特点：
 * 送Emby
@@ -907,6 +905,39 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/顶级机场/price.png)
+
+</details>
+<hr>
+
+### ASA加速器
+
+最低价套餐：2元/月 100G/月,30元/年2T（平均2.5元/月）
+
+特点：
+* 流媒体解锁好
+
+[ASA加速器官网](https://sink.cheapairports.dpdns.org/wck92u)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/ASA加速器/price.png)
+
+</details>
+<hr>
+
+### 云际节点
+
+最低价套餐：2.9元/月 600G/月
+
+特点：
+* 三网专线+电信入口，峰值 1000 Mbps
+* 全部解锁 Netflix、Disney+ 等
+
+[云际节点官网](https://sink.cheapairports.dpdns.org/uhzrar)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/云际节点/price.png)
 
 </details>
 
