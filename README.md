@@ -50,7 +50,7 @@
 | 38 | [源哥3r中转机场](#源哥3r中转机场) | [官网](https://sink.cheapairports.dpdns.org/e8dzbf) | 3元/月 40G/月 |
 | 39 | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 2.6元/月 200G/月 |
 | 40 | [顶级机场](#顶级机场) | [官网](https://sink.cheapairports.dpdns.org/t6am4v) | 15.6元/年 200G/月（平均1.3元/月） |
-| 41 | [ASA加速器](#ASA加速器) | [官网](https://sink.cheapairports.dpdns.org/wck92u) | 2元/月 100G/月,30元/年2T（平均2.5元/月） |
+| 41 | [ASA加速器](#asa加速器) | [官网](https://sink.cheapairports.dpdns.org/wck92u) | 2元/月 100G/月,30元/年2T（平均2.5元/月） |
 | 42 | [云际节点](#云际节点) | [官网](https://sink.cheapairports.dpdns.org/uhzrar) | 2.9元/月 600G/月 |
 
 <hr>
