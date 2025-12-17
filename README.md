@@ -24,7 +24,7 @@
 | 12 | [ASA加速器](#asa加速器) | [官网](https://sink.cheapairports.dpdns.org/wck92u) | 2元/月 100G/月,30元/年2T（平均2.5元/月） |
 | 13 | [赔钱机场](#赔钱机场) | [官网](https://sink.cheapairports.dpdns.org/zwp49s) | 1.5元/月 100G/月，2.99元/月 500G |
 | 14 | [一元中转](#一元中转) | [官网](https://sink.cheapairports.dpdns.org/7s3tb6) | 12元/年 50G/月（平均1元/月） |
-| 15 | [SRCloud](#SRCloud) | [官网](https://sink.cheapairports.dpdns.org/6dpnrh) | 3元/月 50G |
+| 15 | [SRCloud](#SRCloud) | [官网](https://sink.cheapairports.dpdns.org/6dpnrh) | 3.5元/月 50G（群内签到白嫖） |
 | 16 | [白嫖机场](#白嫖机场) | [官网](https://sink.cheapairports.dpdns.org/xyt5j3) | 19元/年 1T/月（平均1.58元/月） |
 | 17 | [Kitty Network](#kitty-network) | [官网](https://sink.cheapairports.dpdns.org/nrdjeu) | 24元/年 128G/月（平均2元/月） |
 | 18 | [一毛机场](#一毛机场) | [官网](https://sink.cheapairports.dpdns.org/jddwtu) | 1元/月 100G，3元/月 500G |
@@ -36,13 +36,13 @@
 | 24 | [SKY VPN](#sky-vpn) | [官网](https://sink.cheapairports.dpdns.org/5ad9zr) | 0.5元/月 30G/月，4元/月 200G |
 | 25 | [云鸟Loon](#云鸟loon) | [官网](https://sink.cheapairports.dpdns.org/8qrcge) | 12.9元/年 100G/月（平均1.08元/月） |
 | 26 | [水牛云](#水牛云) | [官网](https://sink.cheapairports.dpdns.org/uv6ate) | 15.9元/年 100G/月（平均1.33元/月） |
-| 27 | [鸡场](#鸡场) | [官网](https://sink.cheapairports.dpdns.org/e6vz65) | 15.9元/年 100G/月（平均1.33元/月） |
+| 27 | [鸡场](#鸡场) | [官网](https://sink.cheapairports.dpdns.org/e6vz65) | 15.9元/年 100G/月（平均1.33元/月）有免费套餐，可以白嫖 |
 | 28 | [NetAccelera](#NetAccelera) | [官网](https://sink.cheapairports.dpdns.org/23mzmc) | 1元/月 18G，5元/月 188G |
 | 29 | [太阳鸟](#太阳鸟) | [官网](https://sink.cheapairports.dpdns.org/9ee2tu) | 5元/月 60G |
 | 30 | [冲上云霄](#冲上云霄) | [官网](https://sink.cheapairports.dpdns.org/p5m39v) | 5元/月 80G |
 | 31 | [橘色云](#橘色云) | [官网](https://sink.cheapairports.dpdns.org/r47das) | 11.5元/季 61G/月（平均3.83元/月） |
 | 32 | [KooDog](#koodog) | [官网](https://sink.cheapairports.dpdns.org/pxnk6y) | 5元/月 35G |
-| 33 | [Crush Cloud](#crush-cloud) | [官网](https://sink.cheapairports.dpdns.org/v2f6xf) | 4元/月 150G |
+| 33 | [Crush Cloud](#crush-cloud) | [官网](https://sink.cheapairports.dpdns.org/v2f6xf) | 4元/月 150G，6元/月 150G（送Emby） |
 | 34 | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月（平均2元/月） |
 | 35 | [地鼠机场](#地鼠机场) | [官网](https://sink.cheapairports.dpdns.org/54k349) | 48元/年 200G/月（平均4元/月） |
 | 36 | [NPC-Cloud](#npc-cloud) | [官网](https://sink.cheapairports.dpdns.org/adgvh5) | 2.1元/月 20G，6元/月 100G |
@@ -103,7 +103,7 @@ Email: pianyijichang@proton.me
 
 ### 雪山机场
 
-最低价套餐：30元/年 200G/月（平均2.5元/月）送Emby
+最低价套餐：29.9元/年 200G/月（平均2.5元/月）送Emby
 
 特点：
 * 有家宽节点（香港，台湾，韩国等）
@@ -134,7 +134,9 @@ Email: pianyijichang@proton.me
 最低价套餐：2元/月 100G/月
 
 特点：
-* 不限设备数
+* 提供三网高质量线路
+* 线路带宽最高速度20000Mbps
+* 全线路安全加密,保护隐私安全
 
 [一分机场官网](https://sink.cheapairports.dpdns.org/6ba6cf)
 <details>
@@ -360,10 +362,11 @@ Email: pianyijichang@proton.me
 ### SRCloud
 开业时间：2025-03-31
 
-最低价套餐：3元/月 50G
+最低价套餐：3.5元/月 50G
 
 特点：
 * 可以群内签到白嫖
+* 全节点IEPL专线线路支持
 * 不限速
 
 [SRCloud官网](https://sink.cheapairports.dpdns.org/6dpnrh)
@@ -555,7 +558,7 @@ Email: pianyijichang@proton.me
 ### SKY VPN
 开业时间：2021-10-05
 
-最低价套餐：0.5元/月 30G/月，4元/月 200G
+最低价套餐：0.5元/月 30G/月，4元/月 200G（每天签到零流量）
 
 特点：
 * 免流节点
@@ -618,10 +621,10 @@ Email: pianyijichang@proton.me
 ### 鸡场
 开业时间：2025-04-27
 
-最低价套餐：12.9元/年 100G/月（平均1.08元/月）
+最低价套餐：15.9元/年 100G/月（平均1.33元/月）
 
 特点：
-* 有免费套餐
+* 有免费套餐，可以白嫖
 * 不限设备数
 * 50+节点
 
@@ -742,7 +745,7 @@ Email: pianyijichang@proton.me
 ### Crush Cloud
 开业时间：2025-08-19
 
-最低价套餐：4元/月 150G
+最低价套餐：4元/月 150G；6元/月 150G（送Emby）
 
 特点：
 * **仅支持IPv6**
