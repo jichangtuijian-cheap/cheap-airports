@@ -1,10 +1,30 @@
-# 便宜机场 低价机场 划算机场 平价机场 白嫖机场 只收录最低套餐价格月付或平均月付5元以内的机场
+# 2026年最新 便宜机场 低价机场 划算机场 平价机场 白嫖机场 免费机场 性价比机场 只收录最低套餐价格月付或平均月付5元以内的机场
 
-||
-|:----------------------------------:|
-| [💳 5分钟无门槛获取Visa卡，可绑定微信支付宝，可以兑换实体卡](./articles/payy/payy.md) |
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="height: 150px;">
+        <a href="./articles/payy/payy.md">          <img src="./cover/PayyCard.png" height="80px"><br>
+          <sub>Payy卡</sub><br>
+          <sub>免费无门槛Visa卡</sub>
+        </a>
+      </th>
+      <th align="center" style="height: 150px;">
+        <a href="https://sink.cheapairports.dpdns.org/gptgod-online">          <img src="./cover/GPT-GOD.png" height="80px"><br>
+          <sub>GPT-GOD AI API 中转站</sub><br>
+          <sub>每天签到领2000积分，满足日常免费使用</sub>
+        </a>
+      </th>
+      <th align="center" style="height: 150px;">
+        <a href="https://sink.cheapairports.dpdns.org/yunwu">          <img src="./cover/YUNWU.png" height="80px"><br>
+          <sub>云雾 API 中转站</sub><br>
+          <sub>全网最低价，0.5元充值1⚡️，可签到</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
-<hr>
 
 | 序号 | 机场名（点击跳转详情） | 官网 | 最低价套餐 |
 | -------- | -------- | -------- | -------- |
@@ -20,36 +40,24 @@
 | 10   | [ASA加速器](#asa加速器) | [官网](https://sink.cheapairports.dpdns.org/wck92u) | 5元/月 400G/月,30元/年2T（平均2.5元/月） |
 | 11   | [赔钱机场](#赔钱机场) | [官网](https://sink.cheapairports.dpdns.org/zwp49s) | 1.5元/月 100G/月，2.99元/月 500G |
 | 12   | [一元中转](#一元中转) | [官网](https://sink.cheapairports.dpdns.org/7s3tb6) | 12元/年 50G/月（平均1元/月） |
-| 13   | [白嫖机场](#白嫖机场) | [官网](https://sink.cheapairports.dpdns.org/xyt5j3) | 19元/半年 1T/月（平均3.17元/月）|
-| 14   | [Kitty Network](#kitty-network) | [官网](https://sink.cheapairports.dpdns.org/nrdjeu) | 24元/年 128G/月（平均2元/月） |
-| 15   | [一毛机场](#一毛机场) | [官网](https://sink.cheapairports.dpdns.org/jddwtu) | 1元/月 100G，3元/月 500G |
-| 16   | [早安云](#早安云) | [官网](https://sink.cheapairports.dpdns.org/xsuq7m) | 1元/月 100G，2元/月 500G，3元/月 1T |
-| 17   | [果粒橙](#果粒橙) | [官网](https://sink.cheapairports.dpdns.org/6bqxq7) | 5元/月 1T/月 |
-| 18   | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 60元/年 148G/月（平均5元/月）,送Emby |
-| 19   | [acyun](#acyun) | [官网](https://sink.cheapairports.dpdns.org/6rzq4p) | 5元/月 300G |
-| 20   | [无觅云](#无觅云) | [官网](https://sink.cheapairports.dpdns.org/5tkdkc) | 券后23.92元/年 300G/年（平均2元/月）|
-| 21   | [SKY VPN](#sky-vpn) | [官网](https://sink.cheapairports.dpdns.org/5ad9zr) | 0.5元/月 30G/月，4元/月 200G |
-| 22   | [云鸟Loon](#云鸟loon) | [官网](https://sink.cheapairports.dpdns.org/8qrcge) | 15.9元/年 100G/月（平均1.32元/月） |
-| 23   | [水牛云](#水牛云) | [官网](https://sink.cheapairports.dpdns.org/uv6ate) | 18.8元/年 100G/月（平均1.56元/月） |
-| 24   | [鸡场](#鸡场) | [官网](https://sink.cheapairports.dpdns.org/e6vz65) | 18.8元/年 100G/月（平均1.56元/月）有免费套餐，可以白嫖 |
-| 25   | [NetAccelera](#NetAccelera) | [官网](https://sink.cheapairports.dpdns.org/23mzmc) | 5元/月 188G |
-| 26   | [橘色云](#橘色云) | [官网](https://sink.cheapairports.dpdns.org/r47das) | 11.5元/季 61G/月（平均3.83元/月） |
-| 27   | [KooDog](#koodog) | [官网](https://sink.cheapairports.dpdns.org/pxnk6y) | 5元/月 35G |
-| 28   | [Crush Cloud](#crush-cloud) | [官网](https://sink.cheapairports.dpdns.org/v2f6xf) | 4元/月 150G，6元/月 150G（送Emby） |
-| 29   | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月（平均2元/月） |
-| 30   | [地鼠机场](#地鼠机场) | [官网](https://sink.cheapairports.dpdns.org/54k349) | 24元/年 200G/月（平均2元/月） |
-| 31   | [NPC-Cloud](#npc-cloud) | [官网](https://sink.cheapairports.dpdns.org/adgvh5) | 2.1元/月 20G，6元/月 100G |
-| 32   | [惊鸿云](#惊鸿云) | [官网](https://sink.cheapairports.dpdns.org/at364s) | 5元/月 50G/月 |
-| 33   | [赛博云机场](#赛博云机场) | [官网](https://sink.cheapairports.dpdns.org/hcc8v6) | 3元/月 120G/月 |
-| 34   | [昆仑云](#昆仑云) | [官网](https://sink.cheapairports.dpdns.org/h4ej4v) | 3元/月 100G 含家宽节点 |
-| 35   | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月（平均1.08元/月）每月发白嫖码 |
-
-<hr>
-
-<hr>
-<a href="./articles/payy/payy.md" style="color:orange; font-weight:bold; text-decoration:underline; font-size:16px;">
-  💳 5分钟无门槛获取Visa卡，可绑定微信支付宝，可以兑换实体卡，点击查看教程
-</a>
+| 13   | [果粒橙](#果粒橙) | [官网](https://sink.cheapairports.dpdns.org/6bqxq7) | 5元/月 1T/月 |
+| 14   | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 60元/年 148G/月（平均5元/月）,送Emby |
+| 15   | [acyun](#acyun) | [官网](https://sink.cheapairports.dpdns.org/6rzq4p) | 5元/月 300G |
+| 16   | [SKY VPN](#sky-vpn) | [官网](https://sink.cheapairports.dpdns.org/5ad9zr) | 0.5元/月 30G/月，4元/月 200G |
+| 17   | [云鸟Loon](#云鸟loon) | [官网](https://sink.cheapairports.dpdns.org/8qrcge) | 15.9元/年 100G/月（平均1.32元/月） |
+| 18   | [水牛云](#水牛云) | [官网](https://sink.cheapairports.dpdns.org/uv6ate) | 18.8元/年 100G/月（平均1.56元/月） |
+| 19   | [鸡场](#鸡场) | [官网](https://sink.cheapairports.dpdns.org/e6vz65) | 18.8元/年 100G/月（平均1.56元/月）有免费套餐，可以白嫖 |
+| 20   | [NetAccelera](#NetAccelera) | [官网](https://sink.cheapairports.dpdns.org/23mzmc) | 5元/月 188G |
+| 21   | [橘色云](#橘色云) | [官网](https://sink.cheapairports.dpdns.org/r47das) | 11.5元/季 61G/月（平均3.83元/月） |
+| 22   | [KooDog](#koodog) | [官网](https://sink.cheapairports.dpdns.org/pxnk6y) | 5元/月 35G |
+| 23   | [Crush Cloud](#crush-cloud) | [官网](https://sink.cheapairports.dpdns.org/v2f6xf) | 4元/月 150G，6元/月 150G（送Emby） |
+| 24   | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月（平均2元/月） |
+| 25   | [地鼠机场](#地鼠机场) | [官网](https://sink.cheapairports.dpdns.org/54k349) | 24元/年 200G/月（平均2元/月） |
+| 26   | [NPC-Cloud](#npc-cloud) | [官网](https://sink.cheapairports.dpdns.org/adgvh5) | 2.1元/月 20G，6元/月 100G |
+| 27   | [惊鸿云](#惊鸿云) | [官网](https://sink.cheapairports.dpdns.org/at364s) | 5元/月 50G/月 |
+| 28   | [赛博云机场](#赛博云机场) | [官网](https://sink.cheapairports.dpdns.org/hcc8v6) | 3元/月 120G/月 |
+| 29   | [昆仑云](#昆仑云) | [官网](https://sink.cheapairports.dpdns.org/h4ej4v) | 3元/月 100G 含家宽节点 |
+| 30   | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月（平均1.08元/月）每月发白嫖码 |
 
 <hr>
 
@@ -58,9 +66,6 @@
 Email: pianyijichang@proton.me
 
 ### 悦通
-
-🔥活动：2026/05/01 00:00 - 2026/05/05 23:59，
-悦通全场套餐限时 7 折，优惠码：XMA2026  
 
 最低价套餐：49.9元/年,200G/月（平均4.15元/月）送Emby
 
@@ -319,99 +324,6 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 白嫖机场
-开业时间：2022-12-28
-
-最低价套餐：19元/半年 1T/月（平均3.17元/月）
-
-特点：
-* 不限设备数 不限速
-* 急速稳定 CN2+BGP专线
-* 全球拥有超过50+优质线路节点
-* 提供Vmess Trojan SS 多种协议供客户选择 含ipv6节点且支持修改host进行免流
-* 运营团队在意大利米兰
-
-[白嫖机场官网](https://sink.cheapairports.dpdns.org/xyt5j3)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/白嫖机场/price.jpg)
-
-</details>
-
-<hr>
-
-### Kitty Network
-开业时间：2024-09-18
-
-最低价套餐：24元/年 128G/月（平均2元/月）
-
-特点：
-* tg频道人数30000+
-* 不限速，不限在线设备数量
-* 解锁 Netflix，Disney+，ChatGPT等
-
-[Kitty Network官网](https://sink.cheapairports.dpdns.org/nrdjeu)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/Kitty-Network/price.png)
-
-</details>
-
-<hr>
-
-### 一毛机场
-开业时间：2023-09-20
-
-最低价套餐：1元/月 100G，3元/月 500G
-
-特点：
-* 不限制速度，支持无限设备同时使用
-* 解锁ChatGPT/奈飞/迪士尼等
-
-[一毛机场官网](https://sink.cheapairports.dpdns.org/jddwtu)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/一毛机场/price.png)
-
-</details>
-<details>
-<summary>测速</summary>
-
-![测速](./assists/一毛机场/speed.png)
-
-</details>
-
-<hr>
-
-### 早安云
-开业时间：2024-09-14
-
-最低价套餐：1元/月 100G，2元/月 500G，3元/月 1T
-
-特点：
-* 不限访问速度
-* 不限制设备数量和每日用量
-* 完善的御三家解锁
-
-[早安云官网](https://sink.cheapairports.dpdns.org/xsuq7m)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/早安云/price.png)
-
-</details>
-<details>
-<summary>测速</summary>
-
-![测速](./assists/早安云/speed.png)
-
-</details>
-
-<hr>
-
 ### 果粒橙
 开业时间：2022-03-19
 
@@ -471,27 +383,6 @@ Email: pianyijichang@proton.me
 <summary>套餐价格</summary>
 
 ![套餐价格](./assists/acyun/price.jpg)
-
-</details>
-
-<hr>
-
-### 无觅云
-开业时间：2024-05-12
-
-最低价套餐：29.90元/年 300G/年（平均2.5元/月），八折优惠码：8080，优惠后平均2元/月
-
-特点：
-* 支持抖音/快手等国内APP改IP
-* 全球 15+国家/地区， 40+节点
-* 单节点最高 5000Mbps 带宽可用
-* 多地BGP隧道加密中转，高SLA保证
-
-[无觅云官网](https://sink.cheapairports.dpdns.org/5tkdkc)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/无觅云/price.png)
 
 </details>
 
@@ -812,17 +703,30 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-<a href="./articles/hyperx/hyperx.md" style="color:sky; font-weight:bold; text-decoration:underline; font-size:16px;">
-  📈 跟单一个月+20%，普通人不会交易也能稳定盈利
-</a>
-<hr>
-<a href="./articles/crypto/makesomecoins.md" style="color:green; font-weight:bold; text-decoration:underline; font-size:16px;">
-  💵 普通人小本金怎么通过币圈年入20w+，点击查看教程
-</a>
-<hr>
-<a href="./articles/payy/payy.md" style="color:orange; font-weight:bold; text-decoration:underline; font-size:16px;">
-  💳 5分钟无门槛获取Visa卡，可绑定微信支付宝，可以兑换实体卡，点击查看教程
-</a>
+<table>
+  <thead>
+    <tr>
+      <th align="center" style="height: 150px;">
+        <a href="./articles/payy/payy.md">          <img src="./cover/PayyCard.png" height="80px"><br>
+          <sub>Payy卡</sub><br>
+          <sub>免费无门槛Visa卡</sub>
+        </a>
+      </th>
+      <th align="center" style="height: 150px;">
+        <a href="https://sink.cheapairports.dpdns.org/gptgod-online">          <img src="./cover/GPT-GOD.png" height="80px"><br>
+          <sub>GPT-GOD AI API 中转站</sub><br>
+          <sub>每天签到领2000积分，满足日常免费使用</sub>
+        </a>
+      </th>
+      <th align="center" style="height: 150px;">
+        <a href="https://sink.cheapairports.dpdns.org/yunwu">          <img src="./cover/YUNWU.png" height="80px"><br>
+          <sub>云雾 API 中转站</sub><br>
+          <sub>全网最低价，0.5元充值1⚡️，可签到</sub>
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
 
 ## Star History
 
