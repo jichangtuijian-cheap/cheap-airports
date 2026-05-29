@@ -28,21 +28,16 @@
 
 | 序号 | 机场名（点击跳转详情） | 官网 | 最低价套餐 |
 | -------- | -------- | -------- | -------- |
-| 1    | [悦通](#悦通) | [官网](https://sink.cheapairports.dpdns.org/648txr) | 49.9元/年,200G/月(平均4.15元/月),送Emby |
+| 1    | [悦通](#悦通) | [官网](https://sink.cheapairports.dpdns.org/648txr) | 49.9元/年,200G/月(平均4.15元/月),12.9元/月 1000g,送Emby |
 | 2    | [糯米](#糯米) | [官网](https://sink.cheapairports.dpdns.org/233sxx) | 12元/年,100G/月(平均1元/月),含家宽,商宽,GIA等专线|
 | 3    | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月(平均2元/月) |
-| 4    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/m82fux) | 39.9元/年,200G/月(平均3.3元/月),送Emby,含家宽节点 |
+| 4    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/m82fux) | 39.9元/年 200G/月(平均3.3元/月),9.9元/月 500G,送Emby,含家宽 |
 | 5    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 60元/年 148G/月(平均5元/月),送Emby |
 | 6    | [星链机场](#星链机场) | [官网](https://sink.cheapairports.dpdns.org/3h2qg2) | 9.9元/年 300G/月(平均0.82元/月) |
 | 7    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 3元/月 168G/月,含动态住宅IP |
 | 8    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/6ba6cf) | 2元/月 100G/月 |
 | 9    | [良心云](#良心云) | [官网](https://sink.cheapairports.dpdns.org/zxrc3d) | 2元/月 100G/月，4元/月 500G |
-| 10   | [ASA加速器](#asa加速器) | [官网](https://sink.cheapairports.dpdns.org/wck92u) | 5元/月 400G/月,30元/年2T(平均2.5元/月) |
-| 11   | [acyun](#acyun) | [官网](https://sink.cheapairports.dpdns.org/6rzq4p) | 5元/月 300G |
-| 12   | [SKY VPN](#sky-vpn) | [官网](https://sink.cheapairports.dpdns.org/5ad9zr) | 0.5元/月 30G/月，4元/月 200G |
-| 13   | [水牛云](#水牛云) | [官网](https://sink.cheapairports.dpdns.org/uv6ate) | 18.8元/年 100G/月(平均1.56元/月) |
-| 14   | [地鼠机场](#地鼠机场) | [官网](https://sink.cheapairports.dpdns.org/54k349) | 24元/年 200G/月(平均2元/月) |
-| 15   | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月)每月发白嫖码 |
+| 10   | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月)每月发白嫖码 |
 
 <hr>
 
@@ -52,21 +47,42 @@ Email: pianyijichang@proton.me
 
 <hr>
 
+### Tag
+
+真正的老牌机场，第一梯队机场
+
+开业时间：2018年
+
+特点：
+* 250+ 条高速线路，覆盖全球 100+ 个国家和地区(含卫星网络)，家宽地区为：香港、澳门、台湾、新加坡、日本、马来西亚、越南、加拿大、美国，有原生节点
+* 落地：香港有G-Core商宽、HGC商宽、HKT家宽，日本有G-Core、Kirino、Kirin、Catixs、IDCF、Sonet索尼宽带、KDDI、软银家宽等，新加坡Kirino、M1家宽、Whiz家宽。美国10余个落地节点，不同商家，美国AT&T家宽。加拿大BCE家宽，澳门CTM家宽，马来西亚有TM家宽、Maxis商宽，新西兰Vodafone家宽
+* IEPL专线SS机场，稳定性高延迟低
+* 解锁Netfilx、Hulu、HBO、Disney+、Dazn等主流流媒体平台的区域限制
+* 解锁ChatGPT、Claude、 Gemini、Cursor等主流 AI 工具的区域限制
+* 老板肉身在香港，作为老牌机场价格偏高，但是质量和稳定性也非常好，适合追求极致体验的用户
+
+[TAG官网](https://sink.cheapairports.dpdns.org/tag)
+<details>
+<summary>套餐价格</summary>
+
+![套餐价格](./assists/tag/price.jpeg)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./assists/tag/speed.jpg)
+
+</details>
+
+<hr>
+
 ### 悦通
 
 最低价套餐：49.9元/年,200G/月（平均4.15元/月）送Emby
 
 ```
-📢 悦通 520宠粉活动！
-
-520不止有心动，还有超值优惠 ❤️
-🎁 全场限时 7 折
-📅 活动时间：5月18日 — 5月23日
-🎟 优惠券码：YUE520
-下单时输入优惠券 YUE520，即可享受全场 7折优惠！
-⏰ 活动时间有限，错过再等一年～
-
-另外由于近期上游线路、服务器、带宽资源及基础运维成本持续上涨，为了保障悦通长期稳定运营，并继续维持节点质量、线路可用性与服务体验，将对现有套餐价格进行调整。
+由于近期上游线路、服务器、带宽资源及基础运维成本持续上涨，为了保障悦通长期稳定运营，并继续维持节点质量、线路可用性与服务体验，将对现有套餐价格进行调整。
 
 ⏰ 调整时间
 2026 年 6 月 1 日 00:00 起
@@ -85,7 +101,7 @@ Email: pianyijichang@proton.me
 * 支持的地区包括：香港、台湾、🇯🇵 日本、🇰🇷 韩国、🇸🇬 新加坡、🇺🇸 美国、🇨🇦 加拿大、🇻🇳 越南、🇲🇾 马来西亚、🇹🇭 泰国、🇮🇳 印度、🇦🇪 阿联酋、🇪🇸 西班牙、🇸🇪 瑞典、🇳🇱 荷兰、🇩🇪 德国、🇬🇧 英国、🇷🇺 俄罗斯、🇹🇷 土耳其、🇳🇬 尼日利亚、🇧🇷 巴西、🇦🇺 澳大利亚、澳门、🇲🇳 蒙古、🇰🇭 柬埔寨、🇲🇲 缅甸、🇱🇦 老挝、🇵🇭 菲律宾、🇮🇩 印度尼西亚、🇵🇰 巴基斯坦、🇹🇱 东帝汶、🇦🇫 阿富汗、🇺🇦 乌克兰、🇻🇦 梵蒂冈、🇧🇲 百慕大、🇬🇱 格陵兰、🇦🇷 阿根廷、🇨🇺 古巴、🇪🇬 埃及、🇸🇴 索马里、🇫🇯 斐济、🇸🇧 所罗门群岛、🇬🇺 关岛、🇦🇶 南极洲…… 节点数量多、分布广，随时畅享全球高速网络！
 * 328元终身永久不限量99T高速流量
 * 520元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
-* tg群人数4800+
+* tg群人数5000+
 
 [悦通官网](https://sink.cheapairports.dpdns.org/648txr)
 <details>
@@ -138,7 +154,7 @@ Email: pianyijichang@proton.me
 
 ### 雪山机场
 
-最低价套餐：39.9元/年 200G/月（平均3.3元/月）送Emby
+最低价套餐：39.9元/年 200G/月(平均3.3元/月), 9.9元/月 500G 送Emby
 
 特点：
 * 有家宽节点（香港，台湾，韩国等）
@@ -180,7 +196,13 @@ Email: pianyijichang@proton.me
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/渔云/price.png)
+![套餐价格](./assists/渔云/price.jpg)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./assists/渔云/speed.jpg)
 
 </details>
 
@@ -273,116 +295,12 @@ Email: pianyijichang@proton.me
 ![测速](./assists/良心云/speed.jpg)
 
 </details>
-<hr>
-
-### ASA加速器
-
-最低价套餐：5元/月 400G/月,30元/年2T（平均2.5元/月）
-
-特点：
-* 流媒体解锁好
-* 30+节点可用
-
-[ASA加速器官网](https://sink.cheapairports.dpdns.org/wck92u)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/ASA加速器/price.jpg)
-
-</details>
-
-<hr>
-
-### acyun
-开业时间：2023-03-10
-
-最低价套餐：5元/月 300G
-推荐购买长期订阅更加划算，季付优惠码：wCRKdpMi 年付优惠码：FGHSlLtK
-
-特点：
-* 冷门地区
-* 0倍率福利下载节点
-* 探针：https://jj.acyun.eu.org
-
-[acyun官网](https://sink.cheapairports.dpdns.org/6rzq4p)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/acyun/price.jpg)
-
-</details>
-
-<hr>
-
-### SKY VPN
-开业时间：2021-10-05
-
-最低价套餐：0.5元/月 30G/月，4元/月 200G（每天签到零流量）
-
-特点：
-* 免流节点
-
-[SKY VPN官网](https://sink.cheapairports.dpdns.org/5ad9zr)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/SKY-VPN/price.png)
-
-</details>
-
-<hr>
-
-### 水牛云
-开业时间：2024-08-19
-
-最低价套餐：18.8元/年 100G/月（平均1.56元/月）
-
-特点：
-* 直连机场
-* 不限在线设备
-* 可用线路50+条以上
-
-[水牛云官网](https://sink.cheapairports.dpdns.org/uv6ate)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/水牛云/price.jpg)
-
-</details>
-
-<hr>
-
-### 地鼠机场
-开业时间：2024-08-19
-
-最低价套餐：24元/年 100G/月（平均2元/月）
-
-特点：
-* 无使用限制，你可以随意使用bt等工具
-* 无审计规则，我们不会限制你访问任何网站
-* 无日志记录，我们不会记录任何的节点日志
-* 每月一杯柠檬水的价格
-* 最高4gbps速率，节点均为G口
-
-[地鼠机场官网](https://sink.cheapairports.dpdns.org/54k349)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/地鼠机场/price.jpg)
-
-</details>
-<details>
-<summary>测速</summary>
-
-![测速](./assists/地鼠机场/speed.png)
-
-</details>
 
 <hr>
 
 ### 便宜机场
 
-最低价套餐：13元/年 100G/月（平均1.08元/月）每月发白嫖码
+最低价套餐：13元/年 100G/月（平均1.08元/月）
 
 特点：
 * 关注频道每个月领取套餐，TG频道人数21000+
