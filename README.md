@@ -36,7 +36,7 @@
 | 6    | [星链机场](#星链机场) | [官网](https://sink.cheapairports.dpdns.org/3h2qg2) | 9.9元/年 300G/月(平均0.82元/月) |
 | 7    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 3元/月 168G/月,含动态住宅IP |
 | 8    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/6ba6cf) | 2元/月 100G/月 |
-| 9    | [良心云](#良心云) | [官网](https://sink.cheapairports.dpdns.org/zxrc3d) | 2元/月 100G/月，4元/月 500G |
+| 9    | [蜜雪冰城](#蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 3元/月 100G/月 |
 | 10   | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月)每月发白嫖码 |
 
 <hr>
@@ -141,6 +141,13 @@ Email: pianyijichang@proton.me
 开业时间：2025-01-27
 
 最低价套餐：6元/季 100G/月（平均2元/月）
+
+特点：
+* 不限制在线客户端
+* 多种协议：HY2,Vless,Anytls
+* 35+节点数
+* 流媒体解锁
+* tg频道人数4900+
 
 [飞狗官网](https://sink.cheapairports.dpdns.org/krj4u9)
 <details>
@@ -270,32 +277,28 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 良心云
-开业时间：2025-03-20
+### 蜜雪冰城
+开业时间：2025-08-27
 
-最低价套餐：2元/月 100G/月，4元/月 500G
+最低价套餐：3元/月 100G/月
 
 特点：
-* 支持新疆，河南，福建，用户使用
-* 四网超低延迟，畅享极速网络体验
-* 自研高性能后端，更强的单线程速度
-* 无限制使用行为，无存储节点日志
-* tg群人数7000+
+* 有公益套餐
+* Netfilx/Hulu/Hbo/Disney+/Dazn等流媒体
 
-[良心云官网](https://sink.cheapairports.dpdns.org/zxrc3d)
+[蜜雪冰城官网](https://sink.cheapairports.dpdns.org/hwm7wr)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/良心云/price.jpg)
+![套餐价格](./assists/蜜雪冰城/price.jpg)
 
 </details>
 <details>
 <summary>测速</summary>
 
-![测速](./assists/良心云/speed.jpg)
+![测速](./assists/蜜雪冰城/speed.jpg)
 
 </details>
-
 <hr>
 
 ### 便宜机场
