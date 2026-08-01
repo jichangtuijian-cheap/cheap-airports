@@ -4,22 +4,28 @@
   <thead>
     <tr>
       <th align="center" style="height: 150px;">
+        <a href="https://sink.cheapairports.dpdns.org/v-api">          <img src="./cover/V-API.png" height="80px"><br>
+          <sub>V-API 中转站</sub><br>
+          <sub>注册就送额度</sub>
+        </a>
+      </th>
+      <th align="center" style="height: 150px;">
         <a href="https://sink.cheapairports.dpdns.org/gptgod-online">          <img src="./cover/GPT-GOD.png" height="80px"><br>
           <sub>GPT-GOD AI API 中转站</sub><br>
           <sub>每天签到领2000积分，满足日常免费使用</sub>
         </a>
       </th>
-      <th align="center" style="height: 150px;">
+      <!-- <th align="center" style="height: 150px;">
         <a href="https://sink.cheapairports.dpdns.org/yunwu">          <img src="./cover/YUNWU.png" height="80px"><br>
           <sub>云雾 API 中转站</sub><br>
           <sub>全网最低价，0.5元充值1⚡️，可签到</sub>
         </a>
-      </th>
+      </th> -->
     </tr>
   </thead>
 </table>
 
-[![本项目只做整理，而非推荐](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=%E6%9C%AC%E9%A1%B9%E7%9B%AE%E5%8F%AA%E5%81%9A%E6%95%B4%E7%90%86%EF%BC%8C%E8%80%8C%E9%9D%9E%E6%8E%A8%E8%8D%90)](https://github.com/jichangtuijian-cheap/cheap-airports)
+[![本项目只做整理，而非推荐](./cover/warning.svg)](https://github.com/jichangtuijian-cheap/cheap-airports)
 
 | 序号 | 机场名（点击跳转详情） | 官网 | 最低价套餐 |
 | -------- | -------- | -------- | -------- |
@@ -60,7 +66,7 @@ Email: pianyijichang@proton.me
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/tag/price.jpeg)
+![套餐价格](./assists/tag/price.jpg)
 
 </details>
 <details>
@@ -76,6 +82,12 @@ Email: pianyijichang@proton.me
 
 最低价套餐：59.9元/年,200G/月（平均5元/月）送Emby，14.9元/月 1000g
 
+活动：新用户五折优惠
+* 📅 活动时间：2026年8月1日 00:00 — 8月7日 23:59（北京时间）
+* 🔥 新用户首单立减50%
+* ✅ 系统自动减免
+* ✅ 无需领取优惠券
+* ✅ 下单即可享受优惠
 
 特点：
 * 送Emby
@@ -93,7 +105,7 @@ Email: pianyijichang@proton.me
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/悦通/price.jpg)
+![套餐价格](./assists/悦通/price1.png)
 
 </details>
 
@@ -316,17 +328,23 @@ Email: pianyijichang@proton.me
   <thead>
     <tr>
       <th align="center" style="height: 150px;">
+        <a href="https://sink.cheapairports.dpdns.org/v-api">          <img src="./cover/V-API.png" height="80px"><br>
+          <sub>V-API 中转站</sub><br>
+          <sub>注册就送额度</sub>
+        </a>
+      </th>
+      <th align="center" style="height: 150px;">
         <a href="https://sink.cheapairports.dpdns.org/gptgod-online">          <img src="./cover/GPT-GOD.png" height="80px"><br>
           <sub>GPT-GOD AI API 中转站</sub><br>
           <sub>每天签到领2000积分，满足日常免费使用</sub>
         </a>
       </th>
-      <th align="center" style="height: 150px;">
+      <!-- <th align="center" style="height: 150px;">
         <a href="https://sink.cheapairports.dpdns.org/yunwu">          <img src="./cover/YUNWU.png" height="80px"><br>
           <sub>云雾 API 中转站</sub><br>
           <sub>全网最低价，0.5元充值1⚡️，可签到</sub>
         </a>
-      </th>
+      </th> -->
     </tr>
   </thead>
 </table>
