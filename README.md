@@ -34,11 +34,10 @@
 | 3    | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月(平均2元/月) |
 | 4    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 60元/年 148G/月(平均5元/月),送Emby |
 | 5    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/m82fux) | 39.9元/年 200G/月(平均3.3元/月),9.9元/月 500G,送Emby,含家宽 |
-| 6    | [星链机场](#星链机场) | [官网](https://sink.cheapairports.dpdns.org/3h2qg2) | 9.9元/年 150G/月(平均0.82元/月) |
-| 7    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 3元/月 100G/月,含动态住宅IP |
-| 8    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/6ba6cf) | 2元/月 100G/月 |
-| 9    | [蜜雪冰城](#蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2元/月 100G/月 |
-| 10   | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月) |
+| 6    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 3元/月 100G/月,含动态住宅IP |
+| 7    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/6ba6cf) | 2元/月 100G/月 |
+| 8    | [蜜雪冰城](#蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2元/月 100G/月 |
+| 9    | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月) |
 
 <hr>
 
@@ -208,26 +207,6 @@ Email: pianyijichang@proton.me
 <summary>测速</summary>
 
 ![测速](./assists/雪山机场/speed.jpg)
-
-</details>
-
-<hr>
-
-### 星链机场
-开业时间：2025-08-26
-
-最低价套餐：9.9元/年 150G/月（平均0.82元/月）
-
-特点：
-* 支持 流媒体稳定解锁
-* 多国节点，节点数量最少30~40个
-* tg群人数12000+
-
-[星链机场官网](https://sink.cheapairports.dpdns.org/3h2qg2)
-<details>
-<summary>套餐价格</summary>
-
-![套餐价格](./assists/星链机场/price.jpg)
 
 </details>
 
