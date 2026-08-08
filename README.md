@@ -34,7 +34,7 @@
 | 3    | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月(平均2元/月) |
 | 4    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 60元/年 148G/月(平均5元/月),送Emby |
 | 5    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/m82fux) | 39.9元/年 200G/月(平均3.3元/月),9.9元/月 500G,送Emby,含家宽 |
-| 6    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 3元/月 100G/月,含动态住宅IP |
+| 6    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 6元/月 1000G/月,含动态住宅IP |
 | 7    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/6ba6cf) | 2元/月 100G/月 |
 | 8    | [蜜雪冰城](#蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2元/月 100G/月 |
 | 9    | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月) |
@@ -104,7 +104,7 @@ Email: pianyijichang@proton.me
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assists/悦通/price1.png)
+![套餐价格](./assists/悦通/price.jpg)
 
 </details>
 
@@ -215,7 +215,7 @@ Email: pianyijichang@proton.me
 ### 狗子云
 开业时间：2025-07-10
 
-最低价套餐：3元/月 100G/月
+最低价套餐：6元/月 1000G/月
 
 特点：
 * 提供HKT、HiNet动态住宅IP
