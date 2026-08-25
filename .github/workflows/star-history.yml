@@ -1,0 +1,35 @@
+name: Star History
+
+on:
+  # 每月 1、4、7、10... 日 UTC 00:00 左右执行
+  # 实际效果约为每 3 天检查一次
+  # schedule:
+  #   - cron: "0 0 */3 * *"
+
+  # 有人给仓库 Star 后触发
+  watch:
+    types: [started]
+
+  # 可以在 Actions 页面手动执行
+  workflow_dispatch:
+
+# 允许 Action 把生成的 SVG 提交回仓库
+permissions:
+  contents: write
+
+# 多个 Star 同时到来时，取消旧任务，只保留最新任务
+concurrency:
+  group: star-history
+  cancel-in-progress: true
+
+jobs:
+  star-history:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      # 生成 Star History
+      - uses: narayann7/star-history-action@a68d8f9d67ca20d55b682a264e69152dcf326e9c
+        with:
+          repos: ${{ github.repository }}
