@@ -53,7 +53,7 @@ Email: pianyijichang@proton.me
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assets/tag/price.jpg)
+![套餐价格](./assets/tag/price.png)
 
 </details>
 <details>
@@ -131,7 +131,7 @@ Email: pianyijichang@proton.me
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assets/飞狗/price.jpg)
+![套餐价格](./assets/飞狗/price.png)
 
 </details>
 

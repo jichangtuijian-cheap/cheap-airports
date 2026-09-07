@@ -3,8 +3,8 @@ name: Star History
 on:
   # 每月 1、4、7、10... 日 UTC 00:00 左右执行
   # 实际效果约为每 3 天检查一次
-  # schedule:
-  #   - cron: "0 0 */3 * *"
+  schedule:
+    - cron: "0 0 */3 * *"
 
   # 有人给仓库 Star 后触发
   watch:
@@ -27,7 +27,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       # 生成 Star History
       - uses: narayann7/star-history-action@a68d8f9d67ca20d55b682a264e69152dcf326e9c
