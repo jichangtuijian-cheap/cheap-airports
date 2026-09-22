@@ -1,6 +1,6 @@
 # 2026年最新 便宜机场 低价机场 划算机场 平价机场 白嫖机场 免费机场 性价比机场
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th align="center" style="height: 150px;">
@@ -11,21 +11,21 @@
       </th>
     </tr>
   </thead>
-</table>
+</table> -->
 
 [![本项目只做整理，而非推荐](./assets/cover/warning.svg)](https://github.com/jichangtuijian-cheap/cheap-airports)
 
 | 序号 | 机场名（点击跳转详情） | 官网 | 最低价套餐 |
 | -------- | -------- | -------- | -------- |
-| 1    | [悦通](#悦通) | [官网](https://sink.cheapairports.dpdns.org/648txr) | 59.9元/年,200G/月(平均5元/月),14.9元/月 1000g,送Emby |
-| 2    | [糯米](#糯米) | [官网](https://sink.cheapairports.dpdns.org/233sxx) | 12元/年,100G/月(平均1元/月),含家宽,商宽,GIA等专线|
-| 3    | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/krj4u9) | 6元/季 100G/月(平均2元/月) |
-| 4    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/7rkg4k) | 60元/年 148G/月(平均5元/月),送Emby |
-| 5    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/m82fux) | 39.9元/年 200G/月(平均3.3元/月),9.9元/月 500G,送Emby,含家宽 |
-| 6    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/xhjy5m) | 6元/月 1000G/月 |
-| 7    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/6ba6cf) | 2元/月 100G/月 |
-| 8    | [蜜雪冰城](#蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/hwm7wr) | 2元/月 100G/月 |
-| 9    | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/f2j64s) | 13元/年 100G/月(平均1.08元/月) |
+| 1    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/cloudfisher) | 60元/年 148G/月(平均5元/月),送Emby |
+| 2    | [糯米](#糯米) | [官网](https://sink.cheapairports.dpdns.org/nuomi) | 12元/年,100G/月(平均1元/月),含家宽,商宽,GIA等专线|
+| 3    | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/feigou) | 6元/季 100G/月(平均2元/月) |
+| 4    | [悦通](#悦通) | [官网](https://sink.cheapairports.dpdns.org/yueto) | 59.9元/年,200G/月(平均5元/月),14.9元/月 1000g,送Emby |
+| 5    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/xueshan) | 39.9元/年 200G/月(平均3.3元/月),9.9元/月 500G,送Emby,含家宽 |
+| 6    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/gouziyun) | 6元/月 1000G/月 |
+| 7    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/yifen) | 2元/月 100G/月 |
+| 8    | [蜜雪冰城](#蜜雪冰城) | [官网](https://sink.cheapairports.dpdns.org/mixue) | 2元/月 100G/月 |
+| 9    | [便宜机场](#便宜机场) | [官网](https://sink.cheapairports.dpdns.org/pianyi) | 13元/年 100G/月(平均1.08元/月) |
 
 <hr>
 
@@ -57,7 +57,7 @@ Email: pianyijichang@proton.me
 
 </details>
 <details>
-<summary>测速</summary>
+<summary>测速（长图）</summary>
 
 ![测速](./assets/tag/speed.jpg)
 
@@ -65,27 +65,29 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 悦通
+### 渔云
+开业时间：2024-07-05
 
-最低价套餐：59.9元/年,200G/月（平均5元/月）送Emby，14.9元/月 1000g
+最低价套餐：60元/年 148G/月（平均5元/月）；9元/月 120G
 
 特点：
-* 送Emby
-* 签到送流量
-* 顶级专线资源的“降维打击”：不同于市面上的普通公网中转，悦通在核心节点（港/台/日/新/美）部署了 Premium 和 专属 高端线路。
-* 硬核配置：接入 HKT (香港电讯)、Hinet (台湾中华电信)、AWS 等企业级资源。
-* 体验：超低延迟，极强抗干扰，晚高峰稳如老狗，直接对标一线大厂体验！
-* 解锁 Netflix、YouTube、TikTok、OpenAI 等主流服务
-* 支持的地区包括：香港、台湾、🇯🇵 日本、🇰🇷 韩国、🇸🇬 新加坡、🇺🇸 美国、🇨🇦 加拿大、🇻🇳 越南、🇲🇾 马来西亚、🇹🇭 泰国、🇮🇳 印度、🇦🇪 阿联酋、🇪🇸 西班牙、🇸🇪 瑞典、🇳🇱 荷兰、🇩🇪 德国、🇬🇧 英国、🇷🇺 俄罗斯、🇹🇷 土耳其、🇳🇬 尼日利亚、🇧🇷 巴西、🇦🇺 澳大利亚、澳门、🇲🇳 蒙古、🇰🇭 柬埔寨、🇲🇲 缅甸、🇱🇦 老挝、🇵🇭 菲律宾、🇮🇩 印度尼西亚、🇵🇰 巴基斯坦、🇹🇱 东帝汶、🇦🇫 阿富汗、🇺🇦 乌克兰、🇻🇦 梵蒂冈、🇧🇲 百慕大、🇬🇱 格陵兰、🇦🇷 阿根廷、🇨🇺 古巴、🇪🇬 埃及、🇸🇴 索马里、🇫🇯 斐济、🇸🇧 所罗门群岛、🇬🇺 关岛、🇦🇶 南极洲…… 节点数量多、分布广，随时畅享全球高速网络！
-* 379.9元终身永久不限量99T高速流量
-* 599.9元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
+* 老牌机场
+* 设备：不限制，支持家庭成员共享
+* 月付套餐赠送EMBY影视库
+* 长期85折优惠码：且听渔吟（该优惠码可循环，不适用于年付套餐）
 * tg群人数1w+
 
-[悦通官网](https://sink.cheapairports.dpdns.org/648txr)
+[渔云官网](https://sink.cheapairports.dpdns.org/cloudfisher)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assets/悦通/price.jpg)
+![套餐价格](./assets/渔云/price.png)
+
+</details>
+<details>
+<summary>测速</summary>
+
+![测速](./assets/渔云/speed.jpg)
 
 </details>
 
@@ -105,7 +107,7 @@ Email: pianyijichang@proton.me
 * ㊙️同等采用全新soga内核  极大保障数据传输安全
 * ❗️此套餐不定期限时限量开放
 
-[糯米官网](https://sink.cheapairports.dpdns.org/233sxx)
+[糯米官网](https://sink.cheapairports.dpdns.org/nuomi)
 <details>
 <summary>套餐价格</summary>
 
@@ -127,7 +129,7 @@ Email: pianyijichang@proton.me
 * 流媒体解锁
 * tg频道人数5000+
 
-[飞狗官网](https://sink.cheapairports.dpdns.org/krj4u9)
+[飞狗官网](https://sink.cheapairports.dpdns.org/feigou)
 <details>
 <summary>套餐价格</summary>
 
@@ -137,29 +139,27 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-### 渔云
-开业时间：2024-07-05
+### 悦通
 
-最低价套餐：60元/年 148G/月（平均5元/月）
+最低价套餐：59.9元/年,200G/月（平均5元/月）送Emby，14.9元/月 1000g
 
 特点：
-* 老牌机场
-* 设备：不限制，支持家庭成员共享
-* 月付套餐赠送EMBY影视库
-* 长期85折优惠码：且听渔吟（该优惠码可循环，不适用于年付套餐）
+* 送Emby
+* 签到送流量
+* 顶级专线资源的“降维打击”：不同于市面上的普通公网中转，悦通在核心节点（港/台/日/新/美）部署了 Premium 和 专属 高端线路。
+* 硬核配置：接入 HKT (香港电讯)、Hinet (台湾中华电信)、AWS 等企业级资源。
+* 体验：超低延迟，极强抗干扰，晚高峰稳如老狗，直接对标一线大厂体验！
+* 解锁 Netflix、YouTube、TikTok、OpenAI 等主流服务
+* 支持的地区包括：香港、台湾、🇯🇵 日本、🇰🇷 韩国、🇸🇬 新加坡、🇺🇸 美国、🇨🇦 加拿大、🇻🇳 越南、🇲🇾 马来西亚、🇹🇭 泰国、🇮🇳 印度、🇦🇪 阿联酋、🇪🇸 西班牙、🇸🇪 瑞典、🇳🇱 荷兰、🇩🇪 德国、🇬🇧 英国、🇷🇺 俄罗斯、🇹🇷 土耳其、🇳🇬 尼日利亚、🇧🇷 巴西、🇦🇺 澳大利亚、澳门、🇲🇳 蒙古、🇰🇭 柬埔寨、🇲🇲 缅甸、🇱🇦 老挝、🇵🇭 菲律宾、🇮🇩 印度尼西亚、🇵🇰 巴基斯坦、🇹🇱 东帝汶、🇦🇫 阿富汗、🇺🇦 乌克兰、🇻🇦 梵蒂冈、🇧🇲 百慕大、🇬🇱 格陵兰、🇦🇷 阿根廷、🇨🇺 古巴、🇪🇬 埃及、🇸🇴 索马里、🇫🇯 斐济、🇸🇧 所罗门群岛、🇬🇺 关岛、🇦🇶 南极洲…… 节点数量多、分布广，随时畅享全球高速网络！
+* 379.9元终身永久不限量99T高速流量
+* 599.9元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
 * tg群人数1w+
 
-[渔云官网](https://sink.cheapairports.dpdns.org/7rkg4k)
+[悦通官网](https://sink.cheapairports.dpdns.org/yueto)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assets/渔云/price.jpg)
-
-</details>
-<details>
-<summary>测速</summary>
-
-![测速](./assets/渔云/speed.jpg)
+![套餐价格](./assets/悦通/price.jpg)
 
 </details>
 
@@ -177,7 +177,7 @@ Email: pianyijichang@proton.me
 * 包含原生，家宽节点
 * tg频道人数11000+
 
-[雪山机场官网](https://sink.cheapairports.dpdns.org/m82fux)
+[雪山机场官网](https://sink.cheapairports.dpdns.org/xueshan)
 <details>
 <summary>套餐价格</summary>
 
@@ -202,7 +202,7 @@ Email: pianyijichang@proton.me
 * 不限速
 * 解锁 OpenAI / Netflix / TikTok / YouTube 等热门服务
 
-[狗子云官网](https://sink.cheapairports.dpdns.org/xhjy5m)
+[狗子云官网](https://sink.cheapairports.dpdns.org/gouziyun)
 <details>
 <summary>套餐价格</summary>
 
@@ -223,7 +223,7 @@ Email: pianyijichang@proton.me
 * 全线路安全加密,保护隐私安全
 * tg群频道人数4w+
 
-[一分机场官网](https://sink.cheapairports.dpdns.org/6ba6cf)
+[一分机场官网](https://sink.cheapairports.dpdns.org/yifen)
 <details>
 <summary>套餐价格</summary>
 
@@ -242,7 +242,7 @@ Email: pianyijichang@proton.me
 * 速度限制：无限制
 * 同时在线设备：无限制
 
-[蜜雪冰城官网](https://sink.cheapairports.dpdns.org/hwm7wr)
+[蜜雪冰城官网](https://sink.cheapairports.dpdns.org/mixue)
 <details>
 <summary>套餐价格</summary>
 
@@ -268,7 +268,7 @@ Email: pianyijichang@proton.me
 * 不限设备数
 * 不限网速
 
-[便宜机场官网](https://sink.cheapairports.dpdns.org/f2j64s)
+[便宜机场官网](https://sink.cheapairports.dpdns.org/pianyi)
 <details>
 <summary>套餐价格</summary>
 
@@ -282,7 +282,7 @@ Email: pianyijichang@proton.me
 
 <hr>
 
-<table>
+<!-- <table>
   <thead>
     <tr>
       <th align="center" style="height: 150px;">
@@ -293,13 +293,14 @@ Email: pianyijichang@proton.me
       </th>
     </tr>
   </thead>
-</table>
+</table> -->
 
 ## Star History
 
-<!-- star-history:start -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/star-history/star-history-dark.svg">
-  <img alt="Star history" src="assets/star-history/star-history-light.svg">
-</picture>
-<!-- star-history:end -->
+<a href="https://github.com/jichangtuijian-cheap/cheap-airports">
+  <img
+    src="https://repostars.dev/api/og?repos=jichangtuijian-cheap/cheap-airports&theme=dark"
+    width="800"
+    alt="Star History Chart"
+  />
+</a>
