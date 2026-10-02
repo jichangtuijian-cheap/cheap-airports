@@ -17,10 +17,10 @@
 
 | 序号 | 机场名（点击跳转详情） | 官网 | 最低价套餐 |
 | -------- | -------- | -------- | -------- |
-| 1    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/cloudfisher) | 60元/年 148G/月(平均5元/月),送Emby |
+| 1    | [渔云](#渔云) | [官网](https://sink.cheapairports.dpdns.org/cloudfisher) | 60元/年 148G/月(平均5元/月),9元/月 120g,送Emby |
 | 2    | [糯米](#糯米) | [官网](https://sink.cheapairports.dpdns.org/nuomi) | 12元/年,100G/月(平均1元/月),含家宽,商宽,GIA等专线|
 | 3    | [飞狗](#飞狗) | [官网](https://sink.cheapairports.dpdns.org/feigou) | 6元/季 100G/月(平均2元/月) |
-| 4    | [悦通](#悦通) | [官网](https://sink.cheapairports.dpdns.org/yueto) | 59.9元/年,200G/月(平均5元/月),14.9元/月 1000g,送Emby |
+| 4    | [悦通](#悦通) | [官网](https://sink.cheapairports.dpdns.org/yueto) | 69.9元/年,200G/月(平均5.8元/月),16.9元/月 1000g,送Emby |
 | 5    | [雪山机场](#雪山机场) | [官网](https://sink.cheapairports.dpdns.org/xueshan) | 39.9元/年 200G/月(平均3.3元/月),9.9元/月 500G,送Emby,含家宽 |
 | 6    | [狗子云](#狗子云) | [官网](https://sink.cheapairports.dpdns.org/gouziyun) | 6元/月 1000G/月 |
 | 7    | [一分机场](#一分机场) | [官网](https://sink.cheapairports.dpdns.org/yifen) | 2元/月 100G/月 |
@@ -141,7 +141,7 @@ Email: pianyijichang@proton.me
 
 ### 悦通
 
-最低价套餐：59.9元/年,200G/月（平均5元/月）送Emby，14.9元/月 1000g
+最低价套餐：69.9元/年,200G/月（平均5.8元/月）送Emby，16.9元/月 1000g
 
 特点：
 * 送Emby
@@ -151,15 +151,15 @@ Email: pianyijichang@proton.me
 * 体验：超低延迟，极强抗干扰，晚高峰稳如老狗，直接对标一线大厂体验！
 * 解锁 Netflix、YouTube、TikTok、OpenAI 等主流服务
 * 支持的地区包括：香港、台湾、🇯🇵 日本、🇰🇷 韩国、🇸🇬 新加坡、🇺🇸 美国、🇨🇦 加拿大、🇻🇳 越南、🇲🇾 马来西亚、🇹🇭 泰国、🇮🇳 印度、🇦🇪 阿联酋、🇪🇸 西班牙、🇸🇪 瑞典、🇳🇱 荷兰、🇩🇪 德国、🇬🇧 英国、🇷🇺 俄罗斯、🇹🇷 土耳其、🇳🇬 尼日利亚、🇧🇷 巴西、🇦🇺 澳大利亚、澳门、🇲🇳 蒙古、🇰🇭 柬埔寨、🇲🇲 缅甸、🇱🇦 老挝、🇵🇭 菲律宾、🇮🇩 印度尼西亚、🇵🇰 巴基斯坦、🇹🇱 东帝汶、🇦🇫 阿富汗、🇺🇦 乌克兰、🇻🇦 梵蒂冈、🇧🇲 百慕大、🇬🇱 格陵兰、🇦🇷 阿根廷、🇨🇺 古巴、🇪🇬 埃及、🇸🇴 索马里、🇫🇯 斐济、🇸🇧 所罗门群岛、🇬🇺 关岛、🇦🇶 南极洲…… 节点数量多、分布广，随时畅享全球高速网络！
-* 379.9元终身永久不限量99T高速流量
-* 599.9元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
+* 469.9元终身永久不限量99T高速流量
+* 699.9元终身永久不限流量，无限带宽，买断即享，彻底告别流量焦虑
 * tg群人数1w+
 
 [悦通官网](https://sink.cheapairports.dpdns.org/yueto)
 <details>
 <summary>套餐价格</summary>
 
-![套餐价格](./assets/悦通/price.jpg)
+![套餐价格](./assets/悦通/price.png)
 
 </details>
 
